@@ -1,0 +1,41 @@
+# NT‑IA‑W02 Corporate Compliance Notice
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL [color=#cb0000]CORPORATE COMPLIANCE NOTICE[/color], INDICATING A REQUIRED CORRECTION WITHOUT DISCIPLINARY STATUS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: EMPLOYEE INFORMATION[/bold][/head]
+[bold]NAME:[/bold]
+[bold]NANOCHAT / EMPLOYEE ID:[/bold]
+[bold]POSITION / DEPARTMENT:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: AREA OF NONCOMPLIANCE[/bold][/head]
+[bold]CATEGORY:[/bold]
+[ ] Procedure Deviation  
+[ ] Documentation Failure  
+[ ] Conduct Concern  
+[ ] Safety / PPE Compliance  
+[ ] Other:
+
+[bold]SUMMARY OF ISSUE:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION C: REQUIRED CORRECTION[/bold][/head]
+[italic]Outline the actions expected to restore compliance.[/italic]
+
+[bold]CORRECTIVE ACTION(S):[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION D: ACKNOWLEDGMENT[/bold][/head]
+[italic]Acknowledgment confirms receipt, not agreement.[/italic]
+
+[bold]ISSUED BY:[/bold]
+[bold]DATE/TIME:[/bold]
+[bold]EMPLOYEE SIGNATURE REQUIRED BELOW.[/bold]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K.[/color][/italic]
