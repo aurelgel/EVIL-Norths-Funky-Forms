@@ -1,0 +1,32 @@
+# NT-SD-B01 Restricted Items Permit
+                     [head=2][bold][color=red]RESTRICTED ITEMS PERMIT[/bold][/head]
+               [color=#9e1c1c]THIS DOCUMENT IS INVALID UNLESS STAMPED[/color][/color]
+──────────────────────────────────────────
+This permit is to be used to issue exceptions to restricted items policy to specified personnel as allowed under NT Space Law §1-5.2
+
+[head=2]1) Recipient[/head]
+Recipient name:   [color=grey]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Permit Reason:     [color=grey]Sample Reason[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=2]2) Items[/head]
+Allowed Item(s):
+ - [color=grey]Sample Item[/color]
+ - [color=grey]Sample Item[/color]
+ - [color=grey]Sample Item[/color]
+ - [color=grey]Sample Item[/color]
+
+The item(s) permitted are the following levels of Contraband:
+\[  ] Minor Contraband - HoS/Department Head Stamp
+[color=#888888](All departments items are MINOR contraband unless stated otherwise.)[/color]
+\[  ] Major Contraband - Captain Stamp
+[color=#888888](Security and Command Items are MAJOR contraband unless stated otherwise.)[/color]
+\[  ] Central Command Restricted - Central Command VIP Stamp
+[color=red][bold]EXCEPTIONS CAN NOT AND WILL NOT BE MADE FOR SYNDICATE AND OTHER NON-NT ITEMS.[/bold][/color]
+
+[italic]Please refer to the figure above and ensure that this document is stamped appropriately in order to be valid. Multiple contraband types can be approved so long as atleast one of the granters for each type on the document has stamped.[/italic]
+
+
+[color=#BBBBBB]This permission can be revoked at any time by the individual who granted it or the next in succession. Abusing permissions granted to you by command officers is not recommended.
+
+Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]

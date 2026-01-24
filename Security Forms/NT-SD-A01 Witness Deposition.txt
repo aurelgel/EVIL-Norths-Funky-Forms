@@ -1,0 +1,29 @@
+# NT-SD-A01 Witness Deposition
+
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+
+─────────────────────────────────────────
+
+[bold]THIS DEPOSITION REPRESENTS A WITNESSES [color=#cb0000]OFFICIAL REPORT[/color] FOR MATTERS IN BREACH OF SPACE LAW.[/bold]
+
+─────────────────────────────────────────
+
+WITNESS: [color=#1b67a5] Sample[/color] 
+
+OFFICER RECEIVEING DEPOSITION: [color=#1b67a5] Sample, Position[/color]
+
+─────────────────────────────────────────
+
+TESTIMONY:  [italic][color=#1b67a5] Sample[/color][/italic]
+
+─────────────────────────────────────────
+
+[italic][color=#aaaaaa]I,[color=#1b67a5] Name[/color], do affirm that the information above is true and correct to the best of my knowledge and relayed to the best of my ability. By signing below, I hereby acknowledge that I may be held in contempt by a court of space law, or guilty of perjury under Nanotrasen Regulation 7716(c).
