@@ -1,0 +1,42 @@
+# NT-SUP-S01 Shuttle Damage Report & Repair Request
+[color=#a8592e]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SUPPLY DEPARTMENT - SPACE STATION 14[/color][/bold]
+
+─────────────────────────────────────────
+[bold]THIS NOTICE SERVES AS AN OFFICIAL REPORT TO THE ENGINEERING DEPARTMENT REGARDING DAMAGE SUSTAINED BY A NANOTRASEN-REGISTERED SHUTTLE OPERATED BY THE SUPPLY DEPARTMENT. REPAIR ACTION IS REQUESTED UNDER ENGINEERING DIRECTIVE 22‑K.[/bold]
+─────────────────────────────────────────
+The Supply Department hereby reports that one or more vessels under its operational control have sustained damage affecting function, safety, or flightworthiness.
+
+The following shuttle has been identified as requiring maintenance:
+• [color=#1b67a5]Cargo Shuttle[/color]  
+• [color=#1b67a5]Salvage Shuttle[/color]
+
+Damage may include, but is not limited to:
+• Hull breaches or structural compromise.
+• Meteor or debris impacts.
+• Burnt wiring, ruptured fuel lines, or shorted APCs.
+• Thruster or navigation failure.
+• Mechanical obstruction blocking launch or landing.
+• Sabotage, tampering, or hostile action.
+• "Normal wear and tear" exceeding Nanotrasen acceptable thresholds.
+
+Engineering is requested to dispatch personnel at their earliest
+availability to inspect, repair, and certify the shuttle for
+continued station service.
+
+This notice is issued in accordance with:
+• Nanotrasen Flight Safety Protocol 5‑H  
+• Repair & Maintenance Regulation 22‑K  
+• Interdepartmental Shuttle Responsibility Charter 3‑A
+─────────────────────────────────────────
+[italic][color=#aaaaaa]I, [color=#1b67a5]the undersigned Supply Department representative[/color], affirm that the above report is accurate and submitted in good faith. Engineering assumes full responsibility for all subsequent diagnostics, repairs, and safety certification as required under Regulation 22‑K. [/color][/italic]
+
+
+                           [bold]SIGNATURE BELOW REQUIRED[/bold]

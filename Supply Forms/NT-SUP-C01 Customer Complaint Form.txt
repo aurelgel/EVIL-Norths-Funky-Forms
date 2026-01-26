@@ -1,0 +1,57 @@
+# NT-SUP-C01 Customer Complaint Form
+
+[color=#a8592e]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SUPPLY DEPARTMENT - SPACE STATION 14[/color][/bold]
+
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS AN [color=#cb0000]OFFICIAL COMPLAINT[/color] AGAINST SUPPLY DEPARTMENT SERVICES, PERSONNEL, OR DELIVERED GOODS, UNDER NANOTRASEN CUSTOMER RELATIONS POLICY 12‑B.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: CUSTOMER INFORMATION[/bold][/head]
+[bold]CUSTOMER NAME:[/bold]
+[bold]EMPLOYEE/NANOCHAT ID:[/bold]
+[bold]DEPARTMENT (if any):[/bold]
+[bold]PREFERRED CONTACT METHOD:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: COMPLAINT CATEGORY[/bold][/head]
+[  ] Delayed Order  
+[  ] Incorrect Crate Delivered  
+[  ] Missing Contents  
+[  ] Damaged Goods  
+[  ] Unprofessional Behavior  
+[  ] Refusal of Service  
+[  ] Billing / Budget Dispute  
+[  ] Other (specify):
+─────────────────────────────────────────
+[head=3][bold]SECTION C: COMPLAINT DETAILS[/bold][/head]
+[bold]RELATED ORDER NUMBER (if known):[/bold]
+
+[bold]DESCRIPTION OF THE ISSUE:[/bold]
+
+[bold]EXPECTED RESOLUTION OR COMPENSATION REQUESTED:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION D: CARGO DIVISION REVIEW[/bold][/head]
+(To be completed by supply personnel.)
+
+[bold]REVIEWED BY:[/bold] (Cargo Technician / Quartermaster)
+
+[bold]INITIAL FINDINGS:[/bold]
+
+[bold]ACTIONS TAKEN:[/bold]
+[  ] Replacement Crate Issued  
+[  ] Refund / Budget Correction  
+[  ] Re‑Delivery Scheduled  
+[  ] No Action Taken (explain below)  
+[  ] Referred to Head of Personnel  
+[  ] Referred to Security  
+[  ] Request Denied
+
+[bold]FINAL NOTES:[/bold]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]I, [color=#1b67a5]Name[/color], affirm that this complaint has been reviewed in accordance with Nanotrasen Customer Relations Policy 12‑B. Knowingly submitting fraudulent complaints may result in revocation of supply privileges or disciplinary review by station command.[/color][/italic]
