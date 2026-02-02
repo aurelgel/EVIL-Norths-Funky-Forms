@@ -1,0 +1,37 @@
+# NT-IA-C06 Internal Affairs Observation Log
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT RECORDS [color=red] OBSERVATIONS MADE BY INTERNAL AFFAIRS[/color] WITHOUT FORMAL ACTION.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: OBSERVATION DETAILS[/bold][/head]
+[bold]IA AGENT / NTR ID:[/bold]
+[bold]TIME OF OBSERVATION:[/bold]
+[bold]LOCATION:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: SUBJECT(S) OBSERVED[/bold][/head]
+[italic](If applicable; leave blank if observing a department or general area.)[/italic]
+
+[bold]NAMES / ROLES:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION C: OBSERVATION NOTES[/bold][/head]
+[italic]Record behavior, conduct, departmental performance, or conditions witnessed.[/italic]
+
+[bold]NOTES:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION D: FOLLOW-UP (IF ANY)[/bold][/head]
+[ ] No Further Action Needed  
+[ ] Monitor Further  
+[ ] Recommend Review  
+[ ] Refer to Command  
+[ ] Escalate to Investigation
+
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Logged under IA Record Protocol 4-M.[/color][/italic]

@@ -1,0 +1,33 @@
+# NT-IA-C05 SOP Deviation Authorization
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+
+[bold]THIS DOCUMENT AUTHORIZES A TEMPORARY [color=#cb0000]DEVIATION FROM STANDARD OPERATING PROCEDURE[/color] IN AN EXCEPTIONAL SITUATION.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: REQUEST DETAILS[/bold][/head]
+[bold]REQUESTED BY:[/bold]
+[bold]DEPARTMENT:[/bold]
+[bold]TIME OF REQUEST:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: NATURE OF DEVIATION[/bold][/head]
+[bold]SOP TO BE DEVIATED FROM:[/bold]
+
+[bold]JUSTIFICATION (Brief):[/bold]
+[italic]Required only to confirm this deviation is necessary for crew or station safety.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C: AUTHORIZATION[/bold][/head]
+[bold]STATUS:[/bold]  
+[ ] Approved (Temporary)  
+[ ] Denied  
+
+[bold]CONDITIONS / LIMITATIONS (If any):[/bold]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Deviations expire at shift end unless renewed in writing. Logged per Corporate Policy 7-K.[/color][/italic]

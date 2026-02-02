@@ -1,0 +1,41 @@
+# NT-SUP-P01 Supply Purchase Request
+
+[color=#a8592e]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SUPPLY DEPARTMENT - SPACE STATION 14[/color][/bold]
+
+─────────────────────────────────────────
+[bold]THIS FORM AUTHORIZES THE CARGO DEPARTMENT TO PROCURE SUPPLIES OR CRATES USING [color=#cb0000]SUPPLY DEPARTMENT FUNDS[/color] ON BEHALF OF A DEPARTMENT OR INDIVIDUAL.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: REQUESTER DETAILS[/bold][/head]
+[bold]REQUESTER NAME:[/bold]
+[bold]EMPLOYEE/NANOCHAT ID:[/bold]
+[bold]DEPARTMENT (if any):[/bold]
+[bold]REQUEST TYPE:[/bold] [  ] Departmental Delivery   [  ] Pickup Required
+─────────────────────────────────────────
+[head=3][bold]SECTION B: ORDER DETAILS[/bold][/head]
+[bold]REQUESTED CRATE(S) OR PACKAGE(S):[/bold]
+[bullet] 
+[bullet]
+
+[bold]JUSTIFICATION FOR ORDER:[/bold]
+
+[bold]URGENCY LEVEL:[/bold]
+[  ] Routine   [  ] Elevated   [  ] High   [  ] EMERGENCY
+─────────────────────────────────────────
+[head=3][bold]SECTION C: CARGO USE ONLY[/bold][/head]
+[bold]ORDER APPROVED BY:[/bold] (Name / Position)
+
+[bold]TOTAL COST CHARGED TO CARGO BUDGET:[/bold]
+
+[bold]NOTES:[/bold]
+
+[bold]USE APPROVED/DENIED STAMP AT THE BOTTOM OF THIS DOCUMENT.[/bold]
+─────────────────────────────────────────
+[italic][color=#aaaaaa] I, [color=#1b67a5]Name[/color], affirm that this request is legitimate and made in accordance with Nanotrasen Procurement Regulation 44-A. Knowingly submitting fraudulent requests may result in payroll docking, revocation of supply privileges, or further disciplinary action. [/color][/italic]

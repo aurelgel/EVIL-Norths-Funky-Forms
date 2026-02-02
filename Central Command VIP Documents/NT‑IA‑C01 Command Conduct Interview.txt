@@ -1,0 +1,82 @@
+# NT-IA-C01 Command Conduct Interview
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS INTERVIEW FORM IS USED BY A NANOTRASEN REPRESENTATIVE TO FORMALLY DOCUMENT A REVIEW OF [color=#cb0000]COMMAND-LEVEL CONDUCT[/color] IN ACCORDANCE WITH CORPORATE REGULATIONS 12-A AND 17-D.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: INTERVIEW DETAILS[/bold][/head]
+[bold]REPRESENTATIVE NAME:[/bold]
+[bold]EMPLOYEE/NANOCHAT ID:[/bold]
+[bold]TIME OF INTERVIEW:[/bold]
+[bold]LOCATION:[/bold] (e.g., Bridge Office, OR, Briefing Room)
+[bold]INTERVIEW REFERENCE CODE:[/bold] NT-RP-C01
+
+[bold]INTERVIEW TYPE:[/bold] [ ] Scheduled    [ ] Ad-Hoc / On-Scene    [ ] Follow-Up
+[bold]REASON FOR INTERVIEW:[/bold] [ ] Alleged Misconduct    [ ] Performance Concern
+                               [ ] Clarification of Incident Report    [ ] Routine Review
+                               [ ] Other:
+─────────────────────────────────────────
+[head=3][bold]SECTION B: SUBJECT (COMMAND) INFORMATION[/bold][/head]
+[bold]SUBJECT NAME:[/bold]
+[bold]RANK/POSITION:[/bold] [ ] Captain  [ ] Head of Personnel  [ ] Head of Security  [ ] Chief Engineer
+                         [ ] Research Director  [ ] Chief Medical Officer  [ ] Acting Command
+                         [ ] Other:
+[bold]DEPARTMENT:[/bold]
+[bold]SHIFT IDENTIFIER:[/bold] (Round ID / Shift Time Window)
+[bold]RELATED REPORTS/TICKETS:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION C: ALLEGATIONS / TOPICS UNDER REVIEW[/bold][/head]
+[italic]Check all that apply and provide brief context.[/italic]
+[ ] Abuse of Authority / Dereliction of Duty
+[ ] Breach of Corporate Regulation (specify):
+[ ] Safety or Security Negligence
+[ ] Crew Rights / Contractual Violations
+[ ] Resource Mismanagement (e.g., budget, cargo, armory access)
+[ ] Communication / Conduct Unbecoming
+[ ] Procedural Noncompliance (e.g., demotions, arrests, executions)
+[ ] Other:
+
+[bold]SUMMARY OF ALLEGATIONS / TOPICS:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION D: INTERVIEW RECORD[/bold][/head]
+[italic]Record only the key points of the interview, including major statements and relevant observations.[/italic]
+
+[bold]SUMMARY OF SUBJECT STATEMENT(S):[/bold]
+
+[bold]NOTES / OBSERVATIONS:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION E: FACTUAL FINDINGS[/bold][/head]
+[italic]Summarize objective facts established during/around the interview.[/italic]
+
+[bold]ESTABLISHED FACTS (Chronological):[/bold]
+
+[bold]COMPLIANCE CHECK:[/bold]
+[bold]Relevant Policies/Regs:[/bold]
+[bold]Findings:[/bold] [ ] Compliant   [ ] Noncompliant   [ ] Partial   [ ] Inconclusive
+[bold]Notes:[/bold]
+
+[bold]NOTES (Policies/Regs Referenced):[/bold]
+
+[bold]IMPACT ASSESSMENT:[/bold] [ ] Crew Safety  [ ] Station Ops  [ ] Assets  [ ] Morale  [ ] Reputation
+Details:
+─────────────────────────────────────────
+[head=3][bold]SECTION F: CONCLUSIONS & RECOMMENDATIONS[/bold][/head]
+[bold]CONCLUSION:[/bold] [ ] Substantiated  [ ] Partially Substantiated  [ ] Unsubstantiated  [ ] Inconclusive
+
+[bold]RECOMMENDATIONS:[/bold]
+[ ] No Action / Coaching
+[ ] Written Warning (Command File)
+[ ] Temporary Restriction (specify area/authority):
+[ ] Remedial Training / SOP Review
+[ ] Formal Disciplinary Review (notify captain)
+[ ] Escalate to Central Command
+[ ] Other:
+─────────────────────────────────────────
+[italic][color=#aaaaaa]I, [color=#1b67a5]Name[/color], certify that this interview record is accurate to the best of my knowledge and collected in accordance with Nanotrasen policy. False statements may constitute perjury under Regulation 7716(c).[/color][/italic]

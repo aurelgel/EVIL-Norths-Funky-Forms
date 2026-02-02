@@ -1,0 +1,46 @@
+# NT-IA-C04 Departmental Directive
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           INTERNAL AFFAIRS OFFICE – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS AN OFFICIAL [color=#cb0000]INTERDEPARTMENTAL DIRECTIVE[/color] ISSUED BY A NANOTRASEN REPRESENTATIVE.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: ORDER DETAILS[/bold][/head]
+[bold]ISSUED BY (NTR NAME/ID):[/bold]
+[bold]SHIFT TIME:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: RECIPIENT DEPARTMENTS[/bold][/head]
+[italic]Select all departments affected by this directive.[/italic]
+
+[ ] Command  
+[ ] Security  
+[ ] Engineering  
+[ ] Medical  
+[ ] Science  
+[ ] Service  
+[ ] Cargo / Supply  
+[ ] Other:
+─────────────────────────────────────────
+[head=3][bold]SECTION C: DIRECTIVE[/bold][/head]
+[bold]ORDER SUMMARY:[/bold]
+
+[bold]INSTRUCTIONS TO BE CARRIED OUT:[/bold]
+
+[bold]PRIORITY LEVEL:[/bold]  
+[ ] Routine  
+[ ] Elevated  
+[ ] Urgent  
+[ ] Critical (Immediate Compliance Required)
+─────────────────────────────────────────
+[head=3][bold]SECTION D: COMPLIANCE & DURATION[/bold][/head]
+[bold]DEADLINE / VALID UNTIL:[/bold]
+
+[bold]COMPLIANCE REQUIRED BY:[/bold] (Name/Department)
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Noncompliance may constitute a violation of Corporate Regulation 17-D.[/color][/italic]
