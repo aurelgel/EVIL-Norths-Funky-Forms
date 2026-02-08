@@ -1,0 +1,33 @@
+# NT-CMD-A01 General Memorandum
+[color=#0850a6]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+  STATION COMMUNICATIONS OFFICE - SPACE STATION 14[/color][/bold]
+──────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A GENERAL MEMORANDUM FOR STATION STAFF. IT IS NOT A FORMAL DIRECTIVE AND DOES NOT CARRY COMMAND AUTHORITY.[/bold]
+─────────────────────────────────────────
+[head=3][bold]INTENDED RECIPIENTS[/bold][/head]  
+[ ] Security  
+[ ] Engineering  
+[ ] Medical  
+[ ] R&D  
+[ ] Supply  
+[ ] Service  
+[ ] Command Staff  
+─────────────────────────────────────────
+[head=3][bold]SUBJECT OF MEMO:[/bold][/head]
+[head=3][bold]MESSAGE CONTENT:[/bold][/head]
+[italic]Write here.[/italic] 
+─────────────────────────────────────────
+[head=3][bold]OPTIONAL REQUESTS[/bold][/head]
+[ ] Please acknowledge receipt  
+[ ] Please distribute to department  
+[ ] Please follow up or clarify  
+[ ] No response needed  
+─────────────────────────────────────────
+[italic][color=#aaaaaa]Filed as general communication. This memo does not override department policy, chain-of-command directives, or emergency instructions.[/color][/italic]
