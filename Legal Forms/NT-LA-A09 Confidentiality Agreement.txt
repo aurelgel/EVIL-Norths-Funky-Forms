@@ -1,0 +1,45 @@
+# NT-LA-A09 Confidentiality Agreement
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+             LEGAL AFFAIRS OFFICE - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL CONFIDENTIALITY AGREEMENT BETWEEN THE PARTIES NAMED BELOW. IT GOVERNS THE HANDLING OF SENSITIVE INFORMATION, TRADE SECRETS, AND PRIVILEGED MATERIALS UNDER CORPORATE REGULATION 63-K.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A - PARTIES[/bold][/head]
+[bold]PARTY ONE NAME AND DEPARTMENT:[/bold]
+[bold]PARTY TWO NAME AND DEPARTMENT:[/bold]
+[bold]ADDITIONAL PARTIES (If any):[/bold]
+[bold]LEGAL REPRESENTATIVE(S) (If any):[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B - DEFINITION OF CONFIDENTIAL INFORMATION[/bold][/head]
+[italic]Describe what materials or knowledge are confidential.[/italic]
+
+[italic]Write here.[/italic] 
+─────────────────────────────────────────
+[head=3][bold]SECTION C - OBLIGATIONS AND PERMITTED USE[/bold][/head]
+The receiving party agrees to:
+• Use confidential information only for authorized corporate purposes.  
+• Restrict access to personnel with a legitimate need to know.  
+• Not copy, disclose, or transmit without authorization.  
+• Securely store and, when required, return or destroy materials.
+─────────────────────────────────────────
+[head=3][bold]SECTION D - DURATION AND EXCEPTIONS[/bold][/head]
+[italic]State how long confidentiality lasts and list any exclusions (public info, prior knowledge, lawful order, etc.).[/italic]
+
+[italic]Write here.[/italic] 
+─────────────────────────────────────────
+[head=3][bold]SECTION E - BREACH AND REMEDIES[/bold][/head]
+Violations may result in:
+• Disciplinary action under Regulation 7716(c).  
+• Civil liability for losses or damages.  
+• Immediate injunctive relief by station authority.
+─────────────────────────────────────────
+[italic][color=#aaaaaa]This agreement is enforceable under Regulation 63-K and related privacy directives. Questions regarding scope or enforcement may be referred to Legal Affairs.[/color][/italic]
+
+                        [bold]SIGNATURE OR STAMP BELOW:[/bold]

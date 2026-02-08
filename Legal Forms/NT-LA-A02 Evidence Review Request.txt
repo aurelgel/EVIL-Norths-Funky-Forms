@@ -1,0 +1,49 @@
+# NT-LA-A02 Evidence Review Request
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+             LEGAL AFFAIRS OFFICE - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL REQUEST FOR ACCESS TO EVIDENCE, LOGS, OR CHAIN-OF-CUSTODY RECORDS RELEVANT TO AN ONGOING CASE OR LEGAL PROCEEDING UNDER CORPORATE REGULATION 44-B.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: REQUESTING PARTY INFORMATION[/bold][/head]
+[bold]NAME OF LEGAL REPRESENTATIVE:[/bold]
+[bold]EMPLOYEE/NANOCHAT ID:[/bold]
+[bold]REPRESENTED CLIENT:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: EVIDENCE REQUESTED[/bold][/head]
+[bold]SELECT ALL EVIDENCE TYPES REQUESTED:[/bold]
+[ ] Physical Evidence Access  
+[ ] Security Camera Logs  
+[ ] Sensor / Telemetry Logs  
+[ ] Forensics Analysis Report  
+[ ] Chain-of-Custody Documentation  
+[ ] Witness Testimony Records  
+[ ] Communications Logs  
+[ ] Other (Specify Below):
+
+[bold]SPECIFIC EVIDENCE OR MATERIALS REQUESTED:[/bold]
+
+─────────────────────────────────────────
+[head=3][bold]SECTION C: BASIS FOR REQUEST[/bold][/head]
+[italic]State the legal or procedural grounds for requesting access to
+the evidence listed above.[/italic]
+
+─────────────────────────────────────────
+[head=3][bold]SECTION D: DECLARATION OF NECESSITY[/bold][/head]
+I hereby affirm that:
+• This request is essential for adequate legal representation.  
+• Requested materials will be handled in compliance with Legal Affairs Protocol 7-A.  
+• No evidence will be modified, damaged, or removed from custody.  
+• Any copies provided will remain confidential under Corporate Privacy Directive 3-K.  
+
+─────────────────────────────────────────
+[italic][color=#aaaaaa]
+I, [color=#1b67a5]the undersigned legal representative[/color], submit this request for formal review. I acknowledge that misuse of evidence or falsification of legal claims may result in disciplinary action under Corporate Regulation 7716(c) - Judicial Misconduct.[/color][/italic]
+
+                          [bold]SIGNATURE / STAMP BELOW:[/bold]

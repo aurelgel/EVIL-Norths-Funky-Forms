@@ -1,0 +1,56 @@
+# NT-LA-A05 Plea Agreement Submission
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+             LEGAL AFFAIRS OFFICE - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL SUBMISSION OF A NEGOTIATED PLEA AGREEMENT BETWEEN THE ACCUSED AND STATION AUTHORITY, SUBJECT TO REVIEW AND FINAL APPROVAL UNDER CORPORATE REGULATION 58-B.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A - PARTY INFORMATION[/bold][/head]
+[bold]NAME OF ACCUSED:[/bold]
+[bold]POSITION OR DEPARTMENT:[/bold]
+[bold]LEGAL REPRESENTATIVE (If any):[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B - AGREED UPON PLEA[/bold][/head]
+[italic]Indicate the plea entered as part of this agreement.[/italic]
+
+[ ] Guilty  
+[ ] No Contest  
+[ ] Guilty to Lesser Included Offense  
+[ ] Other (specify)
+
+[bold]DETAILS OF THE PLEA AGREEMENT:[/bold]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C - NEGOTIATED TERMS[/bold][/head]
+[italic]Specify all sentencing terms, concessions, reductions, and obligations agreed to.[/italic]
+
+[bold]SENTENCE OR DISCIPLINARY TERMS:[/bold]  
+[italic]Write here.[/italic]
+
+[bold]CONCESSIONS OFFERED BY AUTHORITY:[/bold]  
+[italic]Write here.[/italic]
+
+[bold]REQUIREMENTS FOR THE ACCUSED:[/bold]  
+[ ] Community service  
+[ ] Fines or restitution  
+[ ] Loss of workplace privileges  
+[ ] Department or area restrictions  
+[ ] Behavioral agreement  
+[ ] Other (specify)
+─────────────────────────────────────────
+[head=3][bold]SECTION D - BASIS FOR AGREEMENT[/bold][/head]
+[italic]Explain why this plea agreement is appropriate and justified.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION E - NOTICE OF AUTHENTICITY[/bold][/head]
+[italic]All must parties sign and stamp below. The plea agreement is not valid unless signed by the accused, the legal representative (if present), and one station authority (Head of Security, Captain, or Magistrate).[/italic]
+─────────────────────────────────────────
+[italic][color=#aaaaaa]This plea agreement is submitted for review and becomes binding upon approval by a qualified authority. This document complies with Judicial Oversight Directive 88-C and Corporate Regulation 58-B. Fabrication or coercion related to plea agreements may result in disciplinary action under Regulation 7716(c).[/color][/italic]
+
+
+                        [bold]SIGNATURE OR STAMP BELOW:[/bold]

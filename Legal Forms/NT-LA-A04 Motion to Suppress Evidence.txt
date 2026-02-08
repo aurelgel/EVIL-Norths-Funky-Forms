@@ -1,0 +1,75 @@
+# NT-LA-A04 Motion to Suppress Evidence
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+             LEGAL AFFAIRS OFFICE - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL REQUEST TO EXCLUDE OR NULLIFY EVIDENCE BELIEVED TO HAVE BEEN OBTAINED IN VIOLATION OF PROCEDURE, REGULATION, OR CORPORATE RIGHTS UNDER REGULATION 52-A.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A - MOVING PARTY INFORMATION[/bold][/head]
+[bold]NAME OF LEGAL REPRESENTATIVE:[/bold]
+[bold]EMPLOYEE OR NANOCHAT ID:[/bold]
+[bold]REPRESENTING CLIENT:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B - EVIDENCE TO BE SUPPRESSED[/bold][/head]
+[italic]List the specific evidence or materials you seek to exclude from consideration.[/italic]
+
+[bullet]
+[bullet]
+[bullet]
+
+[bold]TYPE OF EVIDENCE:[/bold]  
+[ ] Physical Evidence  
+[ ] Security Camera Logs  
+[ ] Sensor or Telemetry Logs  
+[ ] Forensics Results  
+[ ] Testimony or Statements  
+[ ] Communications Logs  
+[ ] Other (specify)
+─────────────────────────────────────────
+
+[head=3][bold]SECTION C - BASIS FOR SUPPRESSION[/bold][/head]
+[italic]Select all applicable grounds and explain below.[/italic]
+
+[ ] Evidence obtained without lawful authorization  
+[ ] Evidence acquired during an improper search or seizure  
+[ ] Mishandled or broken chain of custody  
+[ ] Tampering suspected  
+[ ] Violation of counsel or privacy rights  
+[ ] Sec or departmental misconduct  
+[ ] Documentation inconsistencies  
+[ ] Other (specify)
+
+[bold]EXPLANATION OF BASIS:[/bold]  
+[italic]Write here in detail why you believe this evidence was not obtained lawfully.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D - REQUESTED RELIEF[/bold][/head]
+[italic]Specify the action you request the Magistrate or reviewing authority to take.[/italic]
+
+[ ] Full suppression of listed evidence  
+[ ] Partial suppression (specify which parts)  
+[ ] Exclusion from trial or disciplinary review  
+[ ] Immediate review by Legal Affairs  
+[ ] Other (describe)
+
+[bold]ADDITIONAL COMMENTS:[/bold]  
+(Write here)
+(Write here)
+─────────────────────────────────────────
+[head=3][bold]SECTION E - CERTIFICATION[/bold][/head]
+I affirm that:
+• This motion is submitted in good faith.  
+• The grounds listed above are based on available information.  
+• All evidence cited has been inspected to the fullest extent possible.  
+• False filings may result in disciplinary action under Corporate Regulation 7716(c) - Judicial Misconduct.
+
+─────────────────────────────────────────
+[italic][color=#aaaaaa]
+I, [color=#1b67a5]the undersigned legal representative[/color], formally request suppression of the listed evidence pending judicial review. Failure to act on improperly obtained evidence may constitute a violation of Regulation 52-A and Legal Affairs Protocol 11-C.[/color][/italic]
+
+                        [bold]SIGNATURE OR STAMP BELOW:[/bold]

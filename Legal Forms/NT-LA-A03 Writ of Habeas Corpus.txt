@@ -1,0 +1,65 @@
+# NT-LA-A03 Writ of Habeas Corpus
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+             LEGAL AFFAIRS OFFICE - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS A FORMAL PETITION TO PRODUCE A DETAINEE BEFORE A QUALIFIED MAGISTRATE AND TO JUSTIFY THE LAWFUL BASIS OF THEIR DETENTION UNDER CORPORATE REGULATION 46-D.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: PETITIONER INFORMATION[/bold][/head]
+[bold]NAME OF LEGAL REPRESENTATIVE:[/bold]
+[bold]EMPLOYEE/NANOCHAT ID:[/bold]
+[bold]REPRESENTING CLIENT:[/bold]
+[bold]CONTACT (NanoChat or Office):[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: DETAINEE STATUS[/bold][/head]
+[bold]DETAINEE NAME:[/bold]
+[bold]POSITION OR DEPARTMENT:[/bold]
+[bold]LOCATION OF DETENTION (Brig Cell, Med, Other):[/bold]
+[bold]TIME DETAINED (Approximate Shift Time):[/bold]
+[bold]CURRENT CONDITION:[/bold] [ ] Stable  [ ] Injured  [ ] Critical  [ ] Unknown
+─────────────────────────────────────────
+[head=3][bold]SECTION C: GROUNDS FOR WRIT[/bold][/head]
+[italic]State why continued detention is unlawful or requires immediate judicial review.[/italic]
+
+[ ] Detained without stated charges  
+[ ] Charges not supported by evidence  
+[ ] Exceeded maximum holding time without sentencing  
+[ ] Denial of access to counsel  
+[ ] Procedural violations during arrest or search  
+[ ] Other (specify below):
+
+[bold]SUMMARY OF BASIS:[/bold]
+[bullet]
+[bullet]
+[bullet]
+─────────────────────────────────────────
+[head=3][bold]SECTION D: RELIEF REQUESTED[/bold][/head]
+[ ] Immediate release of detainee  
+[ ] Immediate appearance before Magistrate  
+[ ] Suppression of unlawfully obtained evidence  
+[ ] Conversion to supervised release pending review  
+[ ] Other (specify):
+
+[bold]ADDITIONAL CONDITIONS REQUESTED (if released):[/bold]  
+[ ] Return of personal effects  
+[ ] Medical evaluation  
+[ ] Protective order  
+[ ] Travel or area restrictions (specify)
+─────────────────────────────────────────
+[head=3][bold]SECTION E: CERTIFICATION[/bold][/head]
+I affirm that:
+• This petition is submitted in good faith.  
+• All known material facts have been disclosed.  
+• Detention may be unlawful without judicial examination.  
+• False statements are punishable under Corporate Regulation 7716(c) - Judicial Misconduct.
+─────────────────────────────────────────
+[italic][color=#aaaaaa]
+I, [color=#1b67a5]the undersigned legal representative[/color], request that Security produce the detainee and present the lawful basis for detention to a qualified Magistrate without delay. Failure to comply may constitute a violation of Legal Affairs Protocol 9-E and Corporate Regulation 46-D.[/color][/italic]
+
+                         [bold]SIGNATURE OR STAMP BELOW:[/bold]
