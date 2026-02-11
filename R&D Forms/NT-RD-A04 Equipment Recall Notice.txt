@@ -1,0 +1,50 @@
+# NT-RD-A04 Equipment Recall Notice
+                           [color=#5608a8] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+               RESEARCH DIVISION – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED BY THE SCIENCE DEPARTMENT TO REQUEST THE RETURN OF FABRICATED OR ISSUED EQUIPMENT FOR SAFETY, MAINTENANCE, OR REVIEW UNDER MATERIAL CONTROL PROTOCOL RD-7.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT A - ITEM INFORMATION[/bold][/head]
+[bold]ITEM NAME OR DESCRIPTION:[/bold]  
+[bold]TIME OF ISSUE:[/bold]  
+[bold]ISSUED TO (NAME AND DEPARTMENT):[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SUBJECT B - REASON FOR RECALL[/bold][/head]
+( ) SAFETY CONCERN  
+( ) UNAUTHORIZED USE  
+( ) REQUIRED MAINTENANCE  
+( ) EQUIPMENT MALFUNCTION  
+( ) EXPERIMENTAL ITEM REVIEW  
+( ) OTHER
+
+[bold]DETAILS:[/bold]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT C - RETURN INSTRUCTIONS[/bold][/head]
+( ) RETURN TO SCIENCE LAB  
+( ) RETURN TO ROBOTICS  
+( ) DROP-OFF IN DESIGNATED LOCKER  
+( ) HAND-DELIVER TO SCIENCE STAFF  
+( ) OTHER
+
+[bold]DEADLINE FOR RETURN:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SUBJECT D - FOLLOW-UP (SCIENCE DEPARTMENT USE ONLY)[/bold][/head]
+( ) ITEM RETURNED  
+( ) NOT RETURNED  
+( ) PARTIAL RETURN  
+( ) DAMAGED  
+( ) LOST  
+( ) REQUIRES SECURITY ASSISTANCE
+
+[bold]NOTES:[/bold]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]he undersigned Science Department representative affirms this recall notice.[/italic][/color]

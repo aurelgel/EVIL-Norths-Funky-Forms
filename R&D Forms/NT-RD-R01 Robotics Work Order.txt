@@ -1,0 +1,53 @@
+# NT-RD-R01 Robotics Work Order
+                           [color=#5608a8] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+               RESEARCH DIVISION – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED BY THE SCIENCE DEPARTMENT TO TRACK REQUESTS FOR CYBORG CONSTRUCTION, MECH SERVICING, LIMB REPLACEMENTS, AND OTHER ROBOTICS-RELATED WORK UNDER PROTOCOL RD-10.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT A - REQUESTER INFORMATION[/bold][/head]
+[bold]REQUESTER NAME:[/bold]  
+[bold]DEPARTMENT:[/bold]  
+[bold]TIME OF REQUEST:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SUBJECT B - WORK REQUESTED[/bold][/head]
+( ) CYBORG CONSTRUCTION  
+( ) MMI INSTALLATION  
+( ) MECH COMPONENT FABRICATION  
+( ) PROSTHETIC LIMB INSTALLATION  
+( ) DIAGNOSTIC OR REPAIR  
+( ) OTHER
+
+[bold]DESCRIPTION OF WORK:[/bold]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT C - MATERIAL AND TIME ESTIMATE[/bold][/head]
+( ) LOW MATERIAL COST  
+( ) MODERATE MATERIAL COST  
+( ) HIGH MATERIAL COST  
+( ) EXTREME MATERIAL COST
+
+( ) SHORT DURATION  
+( ) MODERATE DURATION  
+( ) LONG DURATION  
+
+[bold]NOTES:[/bold]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT D - ROBOTICS TECHNICIAN REVIEW[/bold][/head]
+( ) APPROVED  
+( ) DENIED  
+( ) DELAYED  
+
+[bold]COMMENTS:[/bold]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]The Science Department bears no responsibility for harm, damage, loss of life, unauthorized activity, structural compromise, disciplinary consequences, or any secondary effects arising from the use, misuse, mishandling, activation, deployment, or operational experimentation of fabricated equipment. All risk is assumed by the requester upon receipt of the item, in compliance with Corporate Regulation RD-7 and Standard Liability Waiver Form NT-RD-L01.[/italic][/color]
+
+[color=#aaaaaa][italic]The undersigned roboticist affirms this work order.[/italic][/color]

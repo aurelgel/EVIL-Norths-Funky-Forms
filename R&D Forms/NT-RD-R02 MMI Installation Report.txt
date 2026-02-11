@@ -1,0 +1,84 @@
+# NT-RD-R02 MMI Installation Report
+                           [color=#5608a8] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+               RESEARCH DIVISION - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS THE STANDARD REPORT FOR THE INSTALLATION  OF A BRAIN INTO A MAN-MACHINE INTERFACE AND THE SUBSEQUENT MOUNTING OF THAT MMI INTO A CYBORG CHASSIS UNDER SAFETY PROTOCOL RD-9.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT A - INSTALLATION DETAILS[/bold][/head]
+[bold]INSTALLING ROBOTICIST:[/bold]  
+[bold]TIME OF INSTALLATION:[/bold]  
+[bold]LOCATION OF INSTALLATION:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SUBJECT B - SOURCE INFORMATION[/bold][/head]
+[bold]DONOR NAME / POSITION:[/bold]  
+[bold]DONOR STATUS AT TIME OF EXTRACTION:[/bold]  
+( ) DECEASED  
+( ) BRAIN RECOVERED FROM CRITICAL PATIENT  
+( ) OTHER
+
+[bold]BRAIN CONDITION:[/bold]  
+( ) INTACT  
+( ) MINOR DAMAGE  
+( ) SEVERE DAMAGE  
+( ) UNKNOWN
+─────────────────────────────────────────
+[head=3][bold]SUBJECT C - MMI DETAILS[/bold][/head]  
+[bold]MMI CONDITION BEFORE INSTALLATION:[/bold]  
+( ) NEW  
+( ) USED  
+( ) DAMAGED  
+( ) REFURBISHED
+
+[bold]NEURAL LINK VERIFICATION:[/bold]  
+( ) SUCCESSFUL  
+( ) INTERMITTENT  
+( ) FAILED
+─────────────────────────────────────────
+[head=3][bold]SUBJECT D - CHASSIS INSTALLATION[/bold][/head]
+[bold]CHASSIS TYPE:[/bold]  
+( ) STANDARD CYBORG  
+( ) ENGINEERING UNIT  
+( ) JANITORIAL UNIT  
+( ) MEDICAL UNIT  
+( ) SALVAGE UNIT  
+( ) SERVICE UNIT  
+( ) OTHER (specify)
+
+[bold]CHASSIS CONDITION:[/bold]  
+( ) NEW  
+( ) USED  
+( ) DAMAGED  
+( ) REFURBISHED
+
+[bold]POWER SYSTEM STATUS:[/bold]  
+( ) NOMINAL  
+( ) UNSTABLE  
+( ) NON-FUNCTIONAL
+
+[bold]SUBROUTINE INITIALIZATION:[/bold]  
+( ) COMPLETED  
+( ) PARTIAL  
+( ) FAILED
+─────────────────────────────────────────
+[head=3][bold]SUBJECT E - BEHAVIORAL AND SYSTEM CHECK[/bold][/head]
+[bold]INITIAL VOCAL OR TEXT COMMUNICATION SUCCESSFUL:[/bold]  
+( ) YES  
+( ) NO  
+( ) PARTIAL
+
+[bold]MOBILITY TEST RESULTS:[/bold]  
+( ) PASSED  
+( ) PARTIAL FUNCTION  
+( ) FAILED
+
+[bold]NOTES:[/bold]  
+[italic]Write here.[/italic]
+──────────────────────────────────────────
+[color=#aaaaaa][italic]The undersigned roboticist hereby affirms the accuracy of this report.[/italic][/color]

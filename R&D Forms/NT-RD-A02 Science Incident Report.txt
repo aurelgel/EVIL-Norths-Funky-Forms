@@ -1,0 +1,97 @@
+# NT-RD-A02 Science Incident Report
+                           [color=#5608a8] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+               RESEARCH DIVISION - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS THE STANDARD REPORT FOR ACCIDENTS, HAZARDOUS EVENTS, OR SECURITY-RELEVANT INCIDENTS OCCURRING WITHIN THE SCIENCE DEPARTMENT UNDER CORPORATE SAFETY PROTOCOL RD-12.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT A - INITIAL INFORMATION[/bold][/head]
+[bold]REPORTING SCIENCE PERSONNEL:[/bold]  
+[bold]LOCATION OF INCIDENT:[/bold]  
+[bold]TIME OF INCIDENT:[/bold]  
+[bold]DEPARTMENTS INVOLVED:[/bold]  
+( ) SCIENCE  
+( ) SECURITY  
+( ) ENGINEERING  
+( ) MEDICAL  
+( ) OTHER (specify)
+─────────────────────────────────────────
+[head=3][bold]SUBJECT B - INCIDENT CATEGORY[/bold][/head]
+[italic][color=#aaaaaa]Select all categories that apply.[/color][/italic]
+
+( ) ARTIFACT MALFUNCTION OR DETONATION  
+( ) ANOMALOUS CREATURE APPEARANCE  
+( ) HOSTILE TEST SUBJECT BEHAVIOR  
+( ) BIOHAZARD OR CHEMICAL RELEASE  
+( ) EQUIPMENT FAILURE  
+( ) TEST CHAMBER BREACH  
+( ) RADIATION OR ENERGY DISCHARGE  
+( ) UNCONTROLLED REACTION  
+( ) OTHER (specify)
+─────────────────────────────────────────
+[head=3][bold]SUBJECT C - PERSONNEL IMPACT[/bold][/head]
+[italic][color=#aaaaaa]List affected individuals and injuries.[/color][/italic]
+
+[bold]AFFECTED PERSONNEL:[/bold]  
+[italic]Write here.[/italic]
+
+[bold]SEVERITY:[/bold]  
+( ) MINOR INJURIES  
+( ) MODERATE INJURIES  
+( ) SEVERE INJURIES  
+( ) FATALITY  
+( ) NO INJURIES
+─────────────────────────────────────────
+[head=3][bold]SUBJECT D - SEQUENCE OF EVENTS[/bold][/head]
+[italic][color=#aaaaaa]Describe the incident chronologically.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT E - CONTAINMENT AND RESPONSE[/bold][/head]
+[italic][color=#aaaaaa]Detail the actions taken by Science personnel and responding units. If no answer can be made, write N/A.[/color][/italic]
+
+[bold]CONTAINMENT ACTIONS:[/bold]  
+[italic]Write here.[/italic]
+
+[bold]SECURITY RESPONSE:[/bold]  
+[italic]Write here.[/italic]
+
+[bold]EQUIPMENT OR SYSTEMS USED:[/bold]  
+( ) ANOMALY NEUTRALIZERS  
+( ) STUN EQUIPMENT  
+( ) LETHAL FORCE  
+( ) FIRE SUPPRESSION  
+( ) EVA OR HAZMAT GEAR  
+( ) OTHER (specify)
+─────────────────────────────────────────
+[head=3][bold]SUBJECT F - DAMAGE ASSESSMENT[/bold][/head]
+[bold]STRUCTURAL DAMAGE:[/bold]  
+( ) NONE  
+( ) MINOR  
+( ) MODERATE  
+( ) SEVERE  
+( ) DESTROYED
+
+[bold]EQUIPMENT LOSS:[/bold]  
+( ) NONE  
+( ) MINOR  
+( ) MODERATE  
+( ) SEVERE  
+
+[bold]DEPARTMENT FUNCTIONALITY:[/bold]  
+( ) FULLY OPERATIONAL  
+( ) PARTIALLY OPERATIONAL  
+( ) NON-FUNCTIONAL
+─────────────────────────────────────────
+[head=3][bold]SUBJECT G - PREVENTATIVE MEASURES[/bold][/head]
+[italic][color=#aaaaaa]List recommendations to prevent recurrence.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]The undersigned Science Department representative hereby affirms this report.[/italic][/color]

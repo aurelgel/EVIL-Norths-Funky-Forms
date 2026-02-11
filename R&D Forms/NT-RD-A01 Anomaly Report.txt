@@ -1,0 +1,64 @@
+# NT-RD-A01 Anomaly Report
+                           [color=#5608a8] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+               RESEARCH DIVISION – SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT SERVES AS THE STANDARD REPORT FOR ANOMALY STUDY, OBSERVATION, AND INTERNAL RECORD KEEPING UNDER CORPORATE PROTOCOL RD-5.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT A - RECORD INFORMATION[/bold][/head]
+[bold]ASSIGNED SCIENTIST:[/bold]   
+[bold]ANOMALY LOCATION:[/bold] 
+[bold]TIME RECORDED:[/bold] 
+
+[color=#aaaaaa][italic]A new anomaly report is recommended every 30 minutes of active study.[/italic][/color]
+─────────────────────────────────────────
+
+[head=3][bold]SUBJECT B - ANOMALY VARIATION[/bold][/head]
+[color=#aaaaaa][italic]Select one classification.[/italic][/color]
+( ) [bold]BLUESPACE[/bold]  
+( ) [bold]ELECTRICAL[/bold]  
+( ) [bold]FIRE[/bold]  
+( ) [bold]FLESH[/bold]  
+( ) [bold]FLORA[/bold]  
+( ) [bold]GRAVITATIONAL[/bold]  
+( ) [bold]ICE[/bold]  
+( ) [bold]LIQUID[/bold]  
+( ) [bold]ROCK[/bold]  
+( ) [bold]SHADOW[/bold]  
+( ) [bold]TECHNOLOGY[/bold]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT C - ANOMALY STATUS[/bold][/head]
+[color=#aaaaaa][italic]Select one status.[/italic][/color]
+( ) [bold]DECAYING[/bold]  
+( ) [bold]STABLE[/bold]
+( ) [bold]GROWING[/bold]
+─────────────────────────────────────────
+
+[head=3][bold]SUBJECT D - PARTICLE REACTIONS[/bold][/head]
+[color=#aaaaaa][italic]Fill each field with Delta, Epsilon, Sigma, or Zeta.[/italic][/color]
+[bold]DANGER[/bold]:  
+[bold]UNSTABLE[/bold]:   
+[bold]CONTAINMENT[/bold]:  
+[bold]TRANSFORMATION[/bold]:
+─────────────────────────────────────────
+
+[head=3][bold]SUBJECT E - BEHAVIOR DEVIATION[/bold][/head]
+[color=#aaaaaa][italic]Copy the anomaly's displayed deviation exactly.[/italic][/color]
+
+[italic]Write here.[/italic]
+
+[bold]MULTIPLIER[/bold]:
+─────────────────────────────────────────
+
+[head=3][bold]SUBJECT F - ACTIONS TAKEN[/bold][/head]
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+
+                         [head=3][bold]SIGNATURE AND STAMP[/bold][/head]
+[color=#aaaaaa][italic]Research Director signature and stamp required to validate this report.[/italic][/color]
