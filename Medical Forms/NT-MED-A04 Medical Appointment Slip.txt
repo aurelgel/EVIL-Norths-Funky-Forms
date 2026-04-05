@@ -1,0 +1,29 @@
+# NT-MED-A04 Medical Appointment Slip
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS SLIP INDICATES A SCHEDULED OR REQUESTED NON-EMERGENCY MEDICAL APPOINTMENT.[/bold]
+─────────────────────────────────────────
+[bold]PATIENT NAME:[/bold]  
+
+[bold]REQUESTED SERVICE:[/bold]
+
+( ) GENERAL MEDICAL EXAMINATION  
+( ) INJURY FOLLOW-UP
+( ) IMPLANT SERVICES
+( ) RETURN-TO-DUTY EVALUATION - [color=grey][italic](ATTACH MED A02)[/italic][/color]
+( ) OTHER - [color=grey][italic](SPECIFY)[/color][/italic]
+
+[bold]SCHEDULED TIME[/bold]  
+( ) SPECIFIED     ( ) NEXT AVAILABLE     ( ) TBD
+─────────────────────────────────────────
+[color=#aaaaaa][italic]This slip does not constitute medical clearance, diagnosis, or treatment. Failure to report may result in rescheduling or cancellation.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

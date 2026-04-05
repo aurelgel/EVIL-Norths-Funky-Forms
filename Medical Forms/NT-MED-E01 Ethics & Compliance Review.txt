@@ -1,0 +1,51 @@
+# NT-MED-E01 Ethics & Compliance Review
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT INITIATES A FORMAL REVIEW OF MEDICAL PRACTICE, ETHICAL CONDUCT, OR REGULATORY COMPLIANCE. SUBMISSION OF THIS REQUEST MAY RESULT IN AUDIT, SANCTION, OR REVOCATION OF AUTHORIZATION.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – SUBJECT OF REVIEW[/bold][/head]
+
+[bold]NAME[/bold]  
+[bold]POSITION  DEPARTMENT[/bold]  
+[bold]MEDICAL AUTHORIZATION HELD[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – NATURE OF CONCERN[/bold][/head]
+[italic][color=#aaaaaa]Select all that apply.[/color][/italic]
+
+( ) VIOLATION OF MEDICAL ETHICS  
+( ) UNAUTHORIZED PROCEDURE OR TREATMENT  
+( ) IMPROPER USE OF PHARMACEUTICALS  
+( ) MISUSE OF MEDICAL AUTHORITY  
+( ) BREACH OF PATIENT CONFIDENTIALITY  
+( ) REGULATORY OR CORPORATE NON-COMPLIANCE  
+( ) OTHER (specify)
+─────────────────────────────────────────
+[head=3][bold]SECTION C – DESCRIPTION OF INCIDENT OR PRACTICE[/bold][/head]
+[italic][color=#aaaaaa]Provide a factual description of the actions or circumstances prompting this review. Avoid speculation or emotional language.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D – IMMEDIATE RISK ASSESSMENT[/bold][/head]
+
+[bold]RISK TO CREW OR OPERATIONS[/bold]  
+( ) NONE IDENTIFIED  
+( ) POTENTIAL  
+( ) IMMEDIATE  
+
+[bold]INTERIM ACTION RECOMMENDED[/bold]  
+( ) NONE  
+( ) SUPERVISORY REVIEW  
+( ) TEMPORARY SUSPENSION OF DUTIES  
+( ) REVOCATION OF MEDICAL AUTHORIZATION (PENDING REVIEW)
+─────────────────────────────────────────
+[color=#aaaaaa][italic]I, the undersigned Medical Personnel, certify that this request for review is submitted in good faith and in accordance with Nanotrasen Ethics Oversight Framework ETH-2 and Medical Compliance Standard MED-30.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

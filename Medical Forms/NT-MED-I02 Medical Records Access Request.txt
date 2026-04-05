@@ -1,0 +1,62 @@
+ NT-MED-I02 Medical Records Access Request
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT IS USED TO REQUEST AUTHORIZED ACCESS TO MEDICAL RECORDS MAINTAINED BY THE MEDICAL DEPARTMENT. ALL REQUESTS ARE LOGGED AND SUBJECT TO AUDIT.[/bold]
+
+[italic][color=#aaaaaa]Access to medical records is granted solely at the discretion of the medical department. Requests for psychological, cloning, implant, or full medical files require approval by Chief Medical Officer departmental stamp.[/color][/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – REQUESTING PARTY[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]POSITION / DEPARTMENT:[/bold]  
+[bold]CLEARANCE OR AUTHORITY BASIS:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – SUBJECT OF RECORDS[/bold][/head]
+
+[bold]SUBJECT NAME[/bold]  
+[bold]JOB  DEPARTMENT[/bold]  
+
+( ) SELF-REQUEST  
+( ) THIRD-PARTY REQUEST
+─────────────────────────────────────────
+[head=3][bold]SECTION C – SCOPE OF ACCESS REQUESTED[/bold][/head]
+[italic][color=#aaaaaa]Select only what is required.[/color][/italic]
+
+( ) GENERAL MEDICAL HISTORY  
+( ) INJURY AND TREATMENT RECORDS  
+( ) PSYCHOLOGICAL EVALUATIONS  
+( ) CLONING  RESLEEVE RECORDS  
+( ) IMPLANT OR AUGMENTATION DATA  
+( ) TOXICOLOGY  CHEMICAL EXPOSURE  
+( ) FULL MEDICAL FILE  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – PURPOSE OF REQUEST[/bold][/head]
+
+( ) OPERATIONAL NECESSITY  
+( ) COMMAND OVERSIGHT  
+( ) SECURITY INVESTIGATION  
+( ) MEDICAL CONTINUITY OF CARE  
+( ) CONSENTED DISCLOSURE  
+( ) OTHER (specify)
+
+[italic]Brief justification (required)[/italic]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION E – AUTHORIZATION & CONSENT[/bold][/head]
+[italic][color=#aaaaaa]Unauthorized access or disclosure of medical records constitutes a violation of Nanotrasen privacy and compliance policies.[/color][/italic]
+
+( ) SUBJECT CONSENT ATTACHED  
+( ) SUBJECT CONSENT NOT OBTAINED  
+( ) CONSENT WAIVED UNDER CORPORATE AUTHORITY  
+─────────────────────────────────────────
+[color=#aaaaaa][italic] I, the undersigned requester, certify that this access is sought in accordance with Nanotrasen Medical Data Governance Standard MDG-03 and Corporate Privacy Regulation 12-F. All accessed information will be used solely for the stated purpose.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

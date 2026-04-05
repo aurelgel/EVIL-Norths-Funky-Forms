@@ -1,0 +1,65 @@
+# NT-MED-A01 Patient Intake & Triage
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS INTENDED TO QUICKLY IDENTIFY PATIENT NEEDS AND PRIORITIZE MEDICAL CARE. MEDICAL STAFF WILL COMPLETE ALL DIAGNOSIS AND TREATMENT DECISIONS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – PATIENT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / ROLE:[/bold]  
+[bold]CURRENT LOCATION (if not Medbay):[/bold]  
+
+( ) SELF-REPORTED  
+( ) BROUGHT IN BY OTHERS  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – CURRENT CONDITION[/bold][/head]
+[italic][color=#aaaaaa]Check all that apply.[/color][/italic]
+
+( ) BLEEDING  
+( ) BURNS  
+( ) BRUTE TRAUMA  
+( ) TOXIN EXPOSURE  
+( ) RADIATION SYMPTOMS  
+( ) BREATHING DIFFICULTY  
+( ) UNCONSCIOUS / DISORIENTED  
+( ) PAIN (GENERAL)  
+( ) UNKNOWN / UNSURE
+─────────────────────────────────────────
+[head=3][bold]SECTION C – CAUSE OF INJURY[/bold][/head]
+[italic][color=#aaaaaa]Best guess only.[/color][/italic]
+
+( ) WORKPLACE ACCIDENT  
+( ) COMBAT OR ALTERCATION  
+( ) EXPERIMENT OR SCIENCE-RELATED  
+( ) ENVIRONMENTAL (SPACE, FIRE, PRESSURE)  
+( ) MEDICAL EMERGENCY  
+( ) UNKNOWN
+─────────────────────────────────────────
+[head=3][bold]SECTION D – URGENCY (PATIENT ASSESSMENT)[/bold][/head]
+
+( ) ROUTINE – Can wait  
+( ) URGENT – Pain or worsening condition  
+( ) CRITICAL – Immediate treatment needed  
+─────────────────────────────────────────
+[head=3][bold]SECTION E – CONSENT[/bold][/head]
+
+I consent to Medical personnel examining and treating me as required.
+
+( ) YES  
+( ) UNABLE TO CONSENT  
+( ) REFUSED
+─────────────────────────────────────────
+[color=#aaaaaa][italic]
+Submission of this form does not guarantee treatment priority.
+Patients will be triaged according to Medical Division protocol.
+[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

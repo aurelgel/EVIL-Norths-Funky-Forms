@@ -1,0 +1,36 @@
+# NT-MED-C02 Pharmaceutical Denial Notice
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]NOTICE:[/bold] The following pharmaceutical request has been reviewed
+and cannot be filled at this time.
+─────────────────────────────────────────
+[head=3][bold]REASON FOR DENIAL[/bold][/head]
+[italic][color=#aaaaaa]Check the most applicable reason.[/color][/italic]
+
+( ) Insufficient medical authorization.
+( ) Requested substance is restricted or controlled.
+( ) Prescription details incomplete or unclear.
+( ) Medical necessity not established.
+( ) Chemical compound does not exist (yet). 
+( ) Safety concerns identified.
+( ) Other (specify).
+─────────────────────────────────────────
+[head=3][bold]NOTES[/bold][/head]
+[italic]Write here. Optional. Please use professional language.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]This denial does not constitute a medical opinion, personal judgment, or challenge. It merely reflects Chemistry’s ongoing commitment to regulatory compliance, workplace safety, and not poisoning the crew. [/italic][/color]
+
+[color=#aaaaaa][italic]If you believe this decision was made in error, please resubmit the request with appropriate authorization and documentation.[/italic][/color]
+─────────────────────────────────────────
+
+[italic]I, the undersigned Chemist, certify that this request has been reviewed under Nanotrasen Pharmaceutical Control Standard PHARM‑12 and denied, as it would be unsafe, unauthorized, or inadvisable for reasons Chemistry would prefer not to repeat.[/italic]
+
+                                        [bold]- SIGN BELOW -[/bold]

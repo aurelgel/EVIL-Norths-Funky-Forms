@@ -1,0 +1,61 @@
+# NT-MED-A06 Morgue Interment Record
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+      MEDICAL DEPARTMENT - PSYCHOLOGICAL SERVICES[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT RECORDS THE TRANSFER AND INTERMENT OF REMAINS INTO MEDICAL MORGUE CUSTODY. THIS FORM IS REQUIRED FOR EACH UNRECOVERED, DECEASED, OR UNCLONED BODY. [/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – DECEDENT IDENTIFICATION[/bold][/head]
+
+[bold]NAME (IF IDENTIFIED):[/bold]  
+[bold]POSITION / DEPARTMENT:[/bold]  
+[bold]EMPLOYEE ID (IF APPLICABLE):[/bold]  
+
+( ) ID CONFIRMED  
+( ) ID UNCONFIRMED / UNKNOWN
+─────────────────────────────────────────
+[head=3][bold]SECTION B – DEATH INFORMATION[/bold][/head]
+
+[bold]TIME OF DEATH:[/bold]  
+[bold]LOCATION OF DEATH:[/bold]  
+
+[bold]CAUSE OF DEATH:[/bold]  
+( ) ACCIDENTAL  
+( ) MEDICAL  
+( ) VIOLENCE  
+( ) ENVIRONMENTAL  
+( ) UNKNOWN / PENDING REVIEW
+─────────────────────────────────────────
+[head=3][bold]SECTION C – BODY CONDITION[/bold][/head]
+
+[bold]PHYSICAL STATE:[/bold]  
+( ) INTACT  
+( ) DAMAGED  
+( ) SEVERELY DAMAGED  
+( ) HAZARDOUS / CONTAMINATED  
+
+[bold]SPECIAL HANDLING REQUIRED:[/bold]  
+( ) BIOHAZARD  
+( ) RADIATION  
+( ) CHEMICAL CONTAMINATION  
+( ) COGNITOHAZARD  
+( ) NONE
+─────────────────────────────────────────
+[head=3][bold]SECTION D – MORGUE INTERMENT[/bold][/head]
+
+[bold]MORGUE UNIT / TRAY NUMBER:[/bold]  
+[bold]TIME OF INTERMENT:[/bold]  
+
+( ) SEALED  
+( ) QUARANTINED  
+( ) EVIDENTIARY HOLD
+─────────────────────────────────────────
+[color=#aaaaaa][italic]I, the undersigned Medical Personnel, certify that the above remains have been received and secured by the Medical Department Morgue in accordance with Nanotrasen Mortuary Handling Standard MOR-06.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

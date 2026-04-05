@@ -1,0 +1,48 @@
+# NT-MED-A02 Return-to-Duty Clearance
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT CERTIFIES A CREW MEMBER’S MEDICAL FITNESS FOR RETURN TO ASSIGNED DUTIES, SUBJECT TO ANY LISTED RESTRICTIONS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – PATIENT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / DEPARTMENT:[/bold]  
+[bold]EMPLOYEE ID (if applicable):[/bold]  
+
+[bold]RECENT CONDITION OR INCIDENT:[/bold]  
+[italic]Brief description (injury, illness, surgery, cloning, etc.).[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – MEDICAL DETERMINATION[/bold][/head]
+
+[italic][color=#aaaaaa]Indicate current fitness for duty.[/color][/italic]
+
+( ) CLEARED – Full return to duty  
+( ) CLEARED WITH RESTRICTIONS  
+( ) NOT CLEARED – Further treatment required  
+
+[bold]RESTRICTIONS (if any):[/bold]  
+( ) NO EVA  
+( ) NO COMBAT / SECURITY DUTIES  
+( ) LIMITED MOBILITY  
+( ) NO HEAVY EQUIPMENT  
+( ) MEDICAL FOLLOW-UP REQUIRED  
+( ) OTHER (specify)
+
+[italic]Details (optional):[/italic]  
+[italic]Write here.[/italic]
+
+[italic]This form may be presented to Department Heads, Command staff,
+or Security as proof of medical clearance.[/italic]
+─────────────────────────────────────────
+
+[italic]I, the undersigned Medical Personnel, certify that this clearance has been issued in accordance with Nanotrasen Medical Division Standard MED-09 and applicable corporate safety regulations.[/italic]
+
+                                       [bold]- SIGN BELOW -[/bold]

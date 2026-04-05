@@ -1,0 +1,44 @@
+# NT-MED-A03 Non-Emergency Request
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REQUEST NON-EMERGENCY MEDICAL SERVICES. EMERGENCIES SHOULD BE REPORTED DIRECTLY TO MEDICAL PERSONNEL.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – REQUESTING INDIVIDUAL[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB DEPARTMENT:[/bold]  
+[bold]CURRENT LOCATION:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – REQUESTED SERVICE[/bold]/[/head]
+[italic][color=#aaaaaa]Check the primary reason for this request.[/color][/italic]
+
+( ) MEDICAL EXAMINATION  CHECKUP  
+( ) SURGERY OR FOLLOW-UP PROCEDURE  
+( ) PROSTHETIC  AUGMENTATION  
+( ) PRESCRIPTION OR TREATMENT PLAN  
+( ) IMPLANT INSTALLATION  REMOVAL  
+( ) MENTAL HEALTH CONSULTATION  
+( ) OTHER (specify)
+─────────────────────────────────────────
+[head=3][bold]SECTION C – BRIEF DESCRIPTION[/bold][/head]
+[italic][color=#aaaaaa]Optional. Please keep concise.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D – URGENCY (REQUESTER ASSESSMENT)[/bold][/head]
+
+( ) ROUTINE – When available  
+( ) PRIORITY – Ongoing discomfort or limitation  
+( ) TIME-SENSITIVE – Please advise
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Submission of this form does not guarantee treatment priority or approval. All services are subject to medical department policy and staff availability.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[bold]

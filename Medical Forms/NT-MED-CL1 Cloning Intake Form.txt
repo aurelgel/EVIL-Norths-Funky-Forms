@@ -1,0 +1,73 @@
+# NT-MED-CL1 Cloning Intake Form
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+           MEDICAL DEPARTMENT - CLONING SERVICES[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT RECORDS THE CLONING OF A CREW MEMBER AND INITIATES REQUIRED POST-CLONING MEDICAL AND PSYCHOLOGICAL FOLLOW-UP IN ACCORDANCE WITH CORPORATE CONTINUITY POLICY.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – PRIOR IDENTITY RECORD[/bold][/head]
+
+[bold]NAME (PRIOR BODY):[/bold]  
+[bold]JOB  DEPARTMENT:[/bold]  
+[bold]EMPLOYEE ID:[/bold]  
+
+[bold]TIME OF DEATH:[/bold]  
+[bold]CAUSE OF DEATH (if known):[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – CLONING DETAILS[/bold][/head]
+
+[bold]TIME OF CLONING:[/bold]  
+
+[bold]CLONING METHOD:[/bold]  
+( ) STANDARD CLONE POD  
+( ) BACKUP IMPRINT  
+( ) DEGRADED  EMERGENCY CLONE  
+
+[bold]CLONE POD OPERATOR[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION C – IMMEDIATE POST-CLONING STATUS[/bold][/head]
+
+[bold]PHYSICAL CONDITION:[/bold]  
+( ) STABLE  
+( ) IMPAIRED  
+( ) UNSTABLE  
+
+[bold]COGNITIVE AWARENESS:[/bold]  
+( ) ORIENTED  
+( ) DISORIENTED  
+( ) DELAYED RESPONSE  
+
+[bold]MEMORY CONTINUITY (SELF-REPORTED):[/bold]  
+( ) INTACT  
+( ) PARTIAL  
+( ) FRAGMENTED  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – RESTRICTIONS & REQUIRED FOLLOW-UP[/bold][/head]
+
+[bold]MANDATORY ACTIONS:[/bold]  
+[italic][color=#aaaaaa]Psychological evaluation is mandatory for all cloned personnel
+prior to clearance for unrestricted duty.[/color][/italic]
+
+[italic][color=#aaaaaa]Cloned personnel are expressly prohibited from viewing, interacting with, or being informed of the location or condition of their prior body. Exposure is classified as a cognitohazard and may result in psychological destabilization. Requests for exception are not authorized.[/color][/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION E – TEMPORARY DUTY STATUS[/bold][/head]
+
+( ) RETURN TO DUTY PENDING CLEARANCE  
+( ) RESTRICTED DUTY  
+( ) MEDICAL OBSERVATION REQUIRED  
+
+[italic]Restrictions or notes (if any)[/italic]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]I, the undersigned Medical Personnel, certify that the above individual has been cloned in accordance with Nanotrasen Continuity Policy CON-11 and Medical Cloning Protocol MED-14. 
+
+This form initiates mandatory post-cloning medical and psychological review.
+[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

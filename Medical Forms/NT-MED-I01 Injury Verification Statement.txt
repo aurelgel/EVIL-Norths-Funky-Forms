@@ -1,0 +1,62 @@
+# NT-MED-I01 Injury Verification Statement
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS STATEMENT DOCUMENTS OBSERVED INJURIES FOR SECURITY REVIEW. NO DETERMINATION OF FAULT, INTENT, OR LEGAL STATUS IS MADE HEREIN.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – SUBJECT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB DEPARTMENT:[/bold]  
+[bold]TIME EXAMINED:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – OBSERVED INJURIES[/bold][/head]
+[italic][color=#aaaaaa]Based solely on medical examination.[/color][/italic]
+
+( ) BLUNT FORCE TRAUMA  
+( ) LACERATIONS  PUNCTURE WOUNDS  
+( ) BALLISTIC OR SHAPNEL INJURIES  
+( ) BURNS (THERMAL  CHEMICAL  ENERGY)  
+( ) ELECTRICAL OR RADIATION DAMAGE  
+( ) SIGNS OF TOXIN EXPOSURE  
+( ) INTERNAL INJURY SUSPECTED  
+( ) NO VISIBLE INJURY  
+
+[italic]Brief description (optional)[/italic]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C – MEDICAL ASSESSMENT[/bold][/head]
+
+[bold]INJURY SEVERITY[/bold]  
+( ) MINOR  
+( ) MODERATE  
+( ) SEVERE  
+( ) CRITICAL  
+
+[bold]CONSISTENCY[/bold]  
+( ) CONSISTENT WITH ACCIDENTAL FORCE  
+( ) CONSISTENT WITH DEFENSIVE FORCE  
+( ) CONSISTENT WITH HOSTILE FORCE  
+( ) INDETERMINATE  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – EVIDENTIARY NOTES[/bold][/head]
+[italic][color=#aaaaaa]Note visible indicators only. Do not speculate.[/color][/italic]
+
+( ) CLOTHING DAMAGE OBSERVED  
+( ) RESIDUE OR CONTAMINATION PRESENT  
+( ) FOREIGN MATERIAL RECOVERED  
+( ) NO ADDITIONAL EVIDENCE NOTED  
+
+[italic]Details (if applicable)[/italic]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]I, the undersigned Medical Personnel, certify that this statement reflects observable medical findings in accordance with Nanotrasen Medical Documentation Standard MED-05. This statement is provided for Security Department use only.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

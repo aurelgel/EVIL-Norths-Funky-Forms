@@ -1,0 +1,50 @@
+# NT-MED-A05 Medical Hold Authorization
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT AUTHORIZES THE TEMPORARY RESTRICTION OF A CREW MEMBER’S MOVEMENT OR DUTIES FOR MEDICAL OR SAFETY REASONS. CHIEF MEDICAL OFFICER APPROVAL IS REQUIRED FOR THIS HOLD TO BE ENFORCED.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – SUBJECT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB  DEPARTMENT:[/bold]  
+[bold]CURRENT LOCATION:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – REASON FOR MEDICAL HOLD[/bold][/head]
+[italic][color=#aaaaaa]Check all that apply.[/color][/italic]
+
+( ) PSYCHOLOGICAL INSTABILITY  
+( ) BIOLOGICAL OR CHEMICAL CONTAMINATION  
+( ) SEVERE PHYSIOLOGICAL TRAUMA  
+( ) POST-CLONING OBSERVATION  
+( ) IMPLANT MALFUNCTION OR INTERFERENCE  
+( ) INFECTIOUS DISEASE RISK  
+( ) OTHER (specify)
+─────────────────────────────────────────
+[head=3][bold]SECTION C – SCOPE OF HOLD[/bold][/head]
+
+( ) MEDBAY CONFINEMENT  
+( ) RESTRICTED FROM DUTY  
+( ) ESCORT REQUIRED  
+( ) QUARANTINE  
+( ) SEDATION AUTHORIZED (if required)
+
+[italic]Additional notes (optional)[/italic]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D – SECURITY NOTIFICATION[/bold][/head]
+[italic][color=#aaaaaa]Medical holds affecting crew movement, confinement, or duty status must be reported to the Security Department upon issuance.[/color][/italic]
+
+( ) SECURITY NOTIFIED  
+( ) SECURITY ASSISTANCE REQUESTED
+─────────────────────────────────────────
+[color=#aaaaaa][italic]This medical hold is valid only upon signature by authorized medical personnel and application of the Chief Medical Officer’s departmental approval stamp. Unapproved or unstamped holds are considered void.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

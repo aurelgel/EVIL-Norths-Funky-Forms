@@ -1,0 +1,60 @@
+# NT-MED-C01 Pharmaceutical Prescription Request
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT AUTHORIZES THE PREPARATION AND DISPENSING OF CONTROLLED OR REGULATED PHARMACEUTICALS BY CHEMISTRY PERSONNEL.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – PATIENT / RECIPIENT INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / DEPARTMENT:[/bold]  
+[bold]CURRENT LOCATION:[/bold]  
+
+( ) SELF  
+( ) THIRD-PARTY REQUEST (specify): ___________
+─────────────────────────────────────────
+[head=3][bold]SECTION B – PRESCRIPTION DETAILS[/bold][/head]
+[italic][color=#aaaaaa]To be completed by Medical personnel or authorized requester.[/color][/italic]
+
+[bold]REQUESTED MEDICATION:[/bold]  
+[bold]DOSAGE / QUANTITY:[/bold]  
+
+[bold]PURPOSE OF PRESCRIPTION:[/bold]  
+( ) TREATMENT  
+( ) SURGERY / PROCEDURE SUPPORT  
+( ) LONG-TERM CARE  
+( ) EMERGENCY USE  
+( ) OTHER (specify)
+
+[italic]Notes (optional):[/italic]  
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C – AUTHORIZATION[/bold][/head]
+
+( ) MEDICAL AUTHORIZATION PROVIDED  
+( ) CHEMISTRY-ISSUED REQUEST 
+[color=grey][italic](Medical review required prior to dispensing.)[/italic][/color]
+
+[bold]AUTHORIZING NAME:[/bold]  
+[bold]ROLE / DEPARTMENT:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – CHEMISTRY USE[/bold][/head]
+[italic][color=#aaaaaa]Completed by Chemistry personnel.[/color][/italic]
+
+( ) PRESCRIPTION ACCEPTED  
+( ) PRESCRIPTION PARTIALLY FILLED  
+( ) PRESCRIPTION DENIED  
+
+[bold]DISPENSED MEDICATION(S):[/bold]  
+[bold]DISPENSING CHEMIST:[/bold]  
+─────────────────────────────────────────
+[color=#aaaaaa][italic]I, the undersigned authorized Chemistry or Medical Personnel, certify that this prescription was issued and dispensed in accordance with Nanotrasen Pharmaceutical Control Standard PHARM-12. Unauthorized distribution of regulated medication may result in disciplinary action.[/color][/italic]
+
+                                        [bold]- SIGN BELOW -[/bold] 
