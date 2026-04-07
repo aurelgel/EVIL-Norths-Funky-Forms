@@ -1,0 +1,43 @@
+# NT-PER-A01 Personnel Action Request
+                           [color=#3e5fb0] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REQUEST CHANGES TO CREW STATUS, ASSIGNMENT, OR EMPLOYMENT. ALL REQUESTS ARE SUBJECT TO PERSONNEL REVIEW AND COMMAND APPROVAL.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – CREW MEMBER INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]CURRENT JOB / ROLE:[/bold]  
+[bold]CURRENT DEPARTMENT:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – REQUEST TYPE[/bold][/head]
+[italic][color=#aaaaaa]Select one primary action.[/color][/italic]
+
+( ) HIRING / ONBOARDING  
+( ) PROMOTION  
+( ) DEMOTION  
+( ) TRANSFER
+( ) TERMINATION  
+( ) ADMINISTRATIVE CORRECTION  
+─────────────────────────────────────────
+[head=3][bold]SECTION C – PROPOSED CHANGE[/bold][/head]
+
+[bold]NEW JOB / ROLE (if applicable):[/bold]  
+[bold]NEW DEPARTMENT (if applicable):[/bold]  
+[bold]EFFECTIVE TIME:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – JUSTIFICATION[/bold][/head]
+[italic][color=#aaaaaa]Provide clear, factual reasoning. Reference performance or operational needs.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Submission of this form does not guarantee approval. All actions must comply with NanoTrasen corporate policy.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

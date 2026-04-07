@@ -1,0 +1,37 @@
+# NT-PER-A05 Acting Head Appointment
+                           [color=#3e5fb0] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM DESIGNATES A TEMPORARY DEPARTMENT HEAD WHEN NO PERMANENT HEAD IS AVAILABLE TO FULFILL DUTIES.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – APPOINTEE INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]CURRENT JOB / ROLE:[/bold]  
+[bold]DEPARTMENT:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – ACTING POSITION[/bold][/head]
+
+[bold]ACTING HEAD ROLE:[/bold]  
+[bold]REASON FOR APPOINTMENT:[/bold]  
+
+( ) HEAD ABSENT  
+( ) HEAD INCAPACITATED  
+( ) POSITION VACANT
+─────────────────────────────────────────
+[head=3][bold]SECTION C – DURATION[/bold][/head]
+
+( ) UNTIL RELIEVED  
+( ) UNTIL PERMANENT HEAD RETURNS  
+( ) SPECIFIED DURATION:
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Acting Head authority is limited to standard departmental oversight. Acting command are subject to the same standards and regulations as appointed command.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

@@ -1,0 +1,49 @@
+# NT-PER-A02 Access Authorization Request
+                           [color=#3e5fb0] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REQUEST ADDITIONAL ACCESS TO RESTRICTED AREAS. ALL REQUESTS ARE SUBJECT TO PERSONNEL REVIEW AND SECURITY APPROVAL.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – CREW MEMBER INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / ROLE:[/bold]  
+[bold]DEPARTMENT:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – REQUESTED ACCESS[/bold][/head]
+[italic][color=#aaaaaa]Check all that apply.[/color][/italic]
+
+( ) ENGINEERING
+( ) MEDICAL
+( ) RESEARCH
+( ) SECURITY
+( ) CARGO
+( ) SERVICE
+( ) BRIDGE / COMMAND
+( ) EVA / EXTERNAL ACCESS  
+( ) ARMORY (RESTRICTED)  
+( ) AI CORE / SATELLITES  
+( ) OTHER (SPECIFY): ______________________
+─────────────────────────────────────────
+[head=3][bold]SECTION C – ACCESS LEVEL[/bold][/head]
+[italic][color=#aaaaaa]Choose one.[/color][/italic]
+
+( ) STANDARD DEPARTMENT ACCESS  
+( ) EXTENDED DEPARTMENT ACCESS  
+( ) TEMPORARY EMERGENCY ACCESS  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – OPERATIONAL JUSTIFICATION[/bold][/head]
+[italic][color=#aaaaaa]Explain the operational need for expanded access.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]NOTICE: ALL departmental access requests require department head approval via stamp and signature. Unauthorized access or misuse of granted permissions may result in immediate revocation and disciplinary action.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

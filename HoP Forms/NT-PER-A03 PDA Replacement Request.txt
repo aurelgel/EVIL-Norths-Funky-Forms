@@ -1,0 +1,49 @@
+# NT-PER-A03 PDA Replacement Request
+                           [color=#3e5fb0] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              PERSONNEL SERVICES - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REQUEST THE ISSUANCE OF A NEW OR REPLACEMENT PERSONAL DATA ASSISTANT (PDA). ALL REQUESTS ARE SUBJECT TO PERSONNEL AND SECURITY REVIEW.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – CREW MEMBER INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / ROLE:[/bold]  
+[bold]DEPARTMENT:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – REQUEST TYPE[/bold][/head]
+[italic][color=#aaaaaa]Select one.[/color][/italic]
+
+( ) INITIAL PDA ISSUANCE  
+( ) LOST PDA REPLACEMENT  
+( ) ADMINISTRATIVE REPLACEMENT  
+─────────────────────────────────────────
+[head=3][bold]SECTION C – PREVIOUS PDA STATUS[/bold][/head]
+
+( ) PDA LOST  
+( ) PDA CONFISCATED / DESTROYED  
+
+[bold]LAST KNOWN LOCATION (if applicable):[/bold]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D – ACCESS REQUIREMENTS[/bold][/head]
+[italic][color=#aaaaaa]Access granted will match current job role unless otherwise approved.[/color][/italic]
+
+( ) STANDARD JOB ACCESS ONLY  
+( ) COMMAND‑LEVEL ACCESS  
+( ) SECURITY‑SENSITIVE ACCESS  
+
+[bold]ADDITIONAL ACCESS REQUESTED (if any):[/bold]  
+[bullet]
+[bullet]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]I acknowledge that PDAs are assigned corporate property and that loss or misuse may result in access review or disciplinary action. Replacement PDAs may have reduced access pending verification or recovery of previously issued devices.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]
