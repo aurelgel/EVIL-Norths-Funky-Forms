@@ -19,10 +19,10 @@
 [head=3][bold]SECTION B - AGREED UPON PLEA[/bold][/head]
 [italic]Indicate the plea entered as part of this agreement.[/italic]
 
-[ ] Guilty  
-[ ] No Contest  
-[ ] Guilty to Lesser Included Offense  
-[ ] Other (specify)
+( ) Guilty  
+( ) No Contest  
+( ) Guilty to Lesser Included Offense  
+( ) Other (specify)
 
 [bold]DETAILS OF THE PLEA AGREEMENT:[/bold]  
 [italic]Write here.[/italic]
@@ -37,12 +37,12 @@
 [italic]Write here.[/italic]
 
 [bold]REQUIREMENTS FOR THE ACCUSED:[/bold]  
-[ ] Community service  
-[ ] Fines or restitution  
-[ ] Loss of workplace privileges  
-[ ] Department or area restrictions  
-[ ] Behavioral agreement  
-[ ] Other (specify)
+( ) Community service  
+( ) Fines or restitution  
+( ) Loss of workplace privileges  
+( ) Department or area restrictions  
+( ) Behavioral agreement  
+( ) Other (specify)
 ─────────────────────────────────────────
 [head=3][bold]SECTION D - BASIS FOR AGREEMENT[/bold][/head]
 [italic]Explain why this plea agreement is appropriate and justified.[/italic]

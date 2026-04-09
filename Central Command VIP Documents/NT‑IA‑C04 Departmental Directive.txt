@@ -18,14 +18,14 @@
 [head=3][bold]SECTION B: RECIPIENT DEPARTMENTS[/bold][/head]
 [italic]Select all departments affected by this directive.[/italic]
 
-[ ] Command  
-[ ] Security  
-[ ] Engineering  
-[ ] Medical  
-[ ] Science  
-[ ] Service  
-[ ] Cargo / Supply  
-[ ] Other:
+( ) Command  
+( ) Security  
+( ) Engineering  
+( ) Medical  
+( ) Science  
+( ) Service  
+( ) Cargo / Supply  
+( ) Other:
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: DIRECTIVE[/bold][/head]
 [bold]ORDER SUMMARY:[/bold]
@@ -33,10 +33,10 @@
 [bold]INSTRUCTIONS TO BE CARRIED OUT:[/bold]
 
 [bold]PRIORITY LEVEL:[/bold]  
-[ ] Routine  
-[ ] Elevated  
-[ ] Urgent  
-[ ] Critical (Immediate Compliance Required)
+( ) Routine  
+( ) Elevated  
+( ) Urgent  
+( ) Critical (Immediate Compliance Required)
 ─────────────────────────────────────────
 [head=3][bold]SECTION D: COMPLIANCE & DURATION[/bold][/head]
 [bold]DEADLINE / VALID UNTIL:[/bold]

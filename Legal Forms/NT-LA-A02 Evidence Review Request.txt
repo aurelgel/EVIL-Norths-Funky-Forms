@@ -18,14 +18,14 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: EVIDENCE REQUESTED[/bold][/head]
 [bold]SELECT ALL EVIDENCE TYPES REQUESTED:[/bold]
-[ ] Physical Evidence Access  
-[ ] Security Camera Logs  
-[ ] Sensor / Telemetry Logs  
-[ ] Forensics Analysis Report  
-[ ] Chain-of-Custody Documentation  
-[ ] Witness Testimony Records  
-[ ] Communications Logs  
-[ ] Other (Specify Below):
+( ) Physical Evidence Access  
+( ) Security Camera Logs  
+( ) Sensor / Telemetry Logs  
+( ) Forensics Analysis Report  
+( ) Chain-of-Custody Documentation  
+( ) Witness Testimony Records  
+( ) Communications Logs  
+( ) Other (Specify Below):
 
 [bold]SPECIFIC EVIDENCE OR MATERIALS REQUESTED:[/bold]
 

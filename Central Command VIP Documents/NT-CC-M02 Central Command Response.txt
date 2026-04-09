@@ -15,13 +15,13 @@
 [italic](Direct orders, clarifications, demands, denials, approvals, instructions, warnings, or knowledge restrictions issued by higher authority.)[/italic]
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: MANDATED ACTIONS FOR STATION PERSONNEL[/bold][/head]
-[ ] Compliance with immediate operational directive  
-[ ] Isolation or containment of involved personnel  
-[ ] Continuation of observation protocol  
-[ ] Suspension of all non-essential activity  
-[ ] Enforcement of disciplinary measures  
-[ ] Destruction or sealing of sensitive materials  
-[ ] Other action (specify below)
+( ) Compliance with immediate operational directive  
+( ) Isolation or containment of involved personnel  
+( ) Continuation of observation protocol  
+( ) Suspension of all non-essential activity  
+( ) Enforcement of disciplinary measures  
+( ) Destruction or sealing of sensitive materials  
+( ) Other action (specify below)
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: NOTICE OF AUTHORITY[/bold][/head]
 [italic]Station command is hereby reminded that all instructions issued under this document supersede local procedure, departmental authority, and any prior interpretation of protocol. Deviation from these directives will result in administrative penalty and may trigger an Internal Stability Review.[/italic]

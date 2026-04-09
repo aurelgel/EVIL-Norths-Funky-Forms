@@ -22,12 +22,12 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: NATURE OF COMPLAINT[/bold][/head]
 [bold]CATEGORY:[/bold]
-[ ] Misconduct  
-[ ] Harassment  
-[ ] Abuse of Authority  
-[ ] Negligence  
-[ ] Rights Concern  
-[ ] Other:
+( ) Misconduct  
+( ) Harassment  
+( ) Abuse of Authority  
+( ) Negligence  
+( ) Rights Concern  
+( ) Other:
 
 [bold]SUMMARY OF INCIDENT:[/bold]
 ─────────────────────────────────────────

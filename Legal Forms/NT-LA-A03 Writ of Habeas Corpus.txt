@@ -27,12 +27,12 @@
 [head=3][bold]SECTION C: GROUNDS FOR WRIT[/bold][/head]
 [italic]State why continued detention is unlawful or requires immediate judicial review.[/italic]
 
-[ ] Detained without stated charges  
-[ ] Charges not supported by evidence  
-[ ] Exceeded maximum holding time without sentencing  
-[ ] Denial of access to counsel  
-[ ] Procedural violations during arrest or search  
-[ ] Other (specify below):
+( ) Detained without stated charges  
+( ) Charges not supported by evidence  
+( ) Exceeded maximum holding time without sentencing  
+( ) Denial of access to counsel  
+( ) Procedural violations during arrest or search  
+( ) Other (specify below):
 
 [bold]SUMMARY OF BASIS:[/bold]
 [bullet]
@@ -40,17 +40,17 @@
 [bullet]
 ─────────────────────────────────────────
 [head=3][bold]SECTION D: RELIEF REQUESTED[/bold][/head]
-[ ] Immediate release of detainee  
-[ ] Immediate appearance before Magistrate  
-[ ] Suppression of unlawfully obtained evidence  
-[ ] Conversion to supervised release pending review  
-[ ] Other (specify):
+( ) Immediate release of detainee  
+( ) Immediate appearance before Magistrate  
+( ) Suppression of unlawfully obtained evidence  
+( ) Conversion to supervised release pending review  
+( ) Other (specify):
 
 [bold]ADDITIONAL CONDITIONS REQUESTED (if released):[/bold]  
-[ ] Return of personal effects  
-[ ] Medical evaluation  
-[ ] Protective order  
-[ ] Travel or area restrictions (specify)
+( ) Return of personal effects  
+( ) Medical evaluation  
+( ) Protective order  
+( ) Travel or area restrictions (specify)
 ─────────────────────────────────────────
 [head=3][bold]SECTION E: CERTIFICATION[/bold][/head]
 I affirm that:

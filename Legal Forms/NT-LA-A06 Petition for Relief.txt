@@ -20,14 +20,14 @@
 [head=3][bold]SECTION B - TYPE OF RELIEF REQUESTED[/bold][/head]
 [italic]Select all that apply.[/italic]
 
-[ ] Administrative exemption  
-[ ] Restoration of rights or privileges  
-[ ] Compensation or reimbursement  
-[ ] Protective order  
-[ ] Stay of disciplinary action  
-[ ] Review of improper conduct  
-[ ] Immediate injunction  
-[ ] Other (specify)
+( ) Administrative exemption  
+( ) Restoration of rights or privileges  
+( ) Compensation or reimbursement  
+( ) Protective order  
+( ) Stay of disciplinary action  
+( ) Review of improper conduct  
+( ) Immediate injunction  
+( ) Other (specify)
 
 [bold]DESCRIPTION OF REQUESTED RELIEF:[/bold]  
 [italic]Write here.[/italic]

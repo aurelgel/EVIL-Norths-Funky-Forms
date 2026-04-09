@@ -22,7 +22,7 @@
 [bold]EMPLOYEE/NANOCHAT ID:[/bold]
 [bold]DEPARTMENT/ROLE:[/bold]
 [bold]STATUS AT TIME OF ARREST:[/bold]
-[ ] CONSCIOUS  [ ]  INJURED  [ ] UNCONSCIOUS
+( ) CONSCIOUS  ( )  INJURED  ( ) UNCONSCIOUS
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: CHARGES[/bold][/head]
 [bold]PRIMARY CHARGE:[/bold]
@@ -30,9 +30,9 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION D: USE OF FORCE[/bold][/head]
 [bold]LEVEL OF FORCE APPLIED:[/bold]
-[ ] NONE  [ ] MINIMAL  [ ] MODERATE  [ ] SEVERE
+( ) NONE  ( ) MINIMAL  ( ) MODERATE  ( ) SEVERE
 [bold]RESTRAINTS USED:[/bold]
-[ ] HANDCUFFS  [ ] LEG RESTRAINTS  [ ] CHEMICAL  [ ] OTHER
+( ) HANDCUFFS  ( ) LEG RESTRAINTS  ( ) CHEMICAL  ( ) OTHER
 ─────────────────────────────────────────
 [head=3][bold]SECTION E: SEQUENCE OF EVENTS[/bold][/head]
 [italic](Describe the arrest in chronological order, including any resistance or compliance.)[/italic]
@@ -40,5 +40,4 @@
 [head=3][bold]LEGAL AFFIRMATION[/bold][/head]
 [italic]I, [color=blue]Officer Name[/color], affirm that the above information is accurate and truthful. I understand that falsifying this report may result in disciplinary action under Nanotrasen Regulation 7716(c).[/italic]
 ──────────────────────────────────────────
-[bold]THIS DOCUMENT MUST BE FILED IN SECURITY RECORDS
-FOR A MINIMUM OF TWO STANDARD SHIFTS.[/bold]
+[bold]THIS DOCUMENT MUST BE FILED IN SECURITY RECORDS FOR A MINIMUM OF TWO STANDARD SHIFTS.[/bold]

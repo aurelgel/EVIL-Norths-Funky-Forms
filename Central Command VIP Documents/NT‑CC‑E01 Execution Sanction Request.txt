@@ -15,21 +15,21 @@
 [bold]Name / Identification:[/bold]  
 [bold]Department / Assignment:[/bold]  
 [bold]Current Status:[/bold]  
-[ ] Detained  
-[ ] Restrained  
-[ ] Sedated  
-[ ] Unsecured (High Risk)
+( ) Detained  
+( ) Restrained  
+( ) Sedated  
+( ) Unsecured (High Risk)
 ─────────────────────────────────────────
 [head=3][bold]BASIS FOR TERMINATION[/bold][/head]
 [bold]Select all applicable corporate violations:[/bold]
 
-[ ] Class-A Sabotage (Critical Infrastructure Damage)  
-[ ] Lethal Assault Against NanoTrasen Personnel
-[ ] Espionage or Intelligence Leakage  
-[ ] Bluespace-Induced Cognitive Compromise    
-[ ] Direct Violation of Command-Level Orders  
-[ ] Security Charter Article 8-F: “Irrecoverable Personnel Risk”  
-[ ] Other: (Specify Here)
+( ) Class-A Sabotage (Critical Infrastructure Damage)  
+( ) Lethal Assault Against NanoTrasen Personnel
+( ) Espionage or Intelligence Leakage  
+( ) Bluespace-Induced Cognitive Compromise    
+( ) Direct Violation of Command-Level Orders  
+( ) Security Charter Article 8-F: “Irrecoverable Personnel Risk”  
+( ) Other: (Specify Here)
 
 [bold]Incident Summary:[/bold]  
 (Record all known details, including observed behavior, symptoms, hostilities, and any anomalous manifestations.)
@@ -37,16 +37,16 @@
 [head=3][bold]RISK ASSESSMENT[/bold][/head]
 
 [bold]Threat Level:[/bold]  
-[ ] Moderate – Containment Unstable  
-[ ] Severe – Personnel Harm Likely  
-[ ] Critical – Stationwide Threat  
-[ ] Extreme – Reality Integrity Risk
+( ) Moderate – Containment Unstable  
+( ) Severe – Personnel Harm Likely  
+( ) Critical – Stationwide Threat  
+( ) Extreme – Reality Integrity Risk
 
 [bold]Cognitive Stability Assessment:[/bold]  
-[ ] Responsive  
-[ ] Unresponsive  
-[ ] Incoherent  
-[ ] Hostile 
+( ) Responsive  
+( ) Unresponsive  
+( ) Incoherent  
+( ) Hostile 
 ─────────────────────────────────────────
 [head=3][bold]REQUESTING OFFICER DECLARATION[/bold][/head]
 I hereby submit this request for Execution Sanction on the grounds that the subject poses a continuing and unacceptable threat to NanoTrasen personnel, assets, research integrity, operational stability, or broader interstellar corporate interests.

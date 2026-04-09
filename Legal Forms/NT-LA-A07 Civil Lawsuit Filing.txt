@@ -25,15 +25,15 @@
 [head=3][bold]SECTION C - NATURE OF THE CLAIM[/bold][/head]
 [italic]Select all applicable causes for civil action.[/italic]
 
-[ ] Negligence  
-[ ] Property damage  
-[ ] Personal injury  
-[ ] Harassment or intimidation  
-[ ] Abuse of authority  
-[ ] Breach of contract or agreement  
-[ ] Interference with duties  
-[ ] Financial or material loss  
-[ ] Other (specify)
+( ) Negligence  
+( ) Property damage  
+( ) Personal injury  
+( ) Harassment or intimidation  
+( ) Abuse of authority  
+( ) Breach of contract or agreement  
+( ) Interference with duties  
+( ) Financial or material loss  
+( ) Other (specify)
 
 [bold]DESCRIPTION OF THE INCIDENT OR GRIEVANCE:[/bold]  
 [italic]Write here.[/italic]
@@ -41,13 +41,13 @@
 [head=3][bold]SECTION D - DAMAGES OR RELIEF REQUESTED[/bold][/head]
 [italic]Specify what compensation or remedy you are seeking.[/italic]
 
-[ ] Monetary compensation  
-[ ] Replacement of destroyed or lost items  
-[ ] Medical reimbursement  
-[ ] Injunction or protective order  
-[ ] Restoration of rights or privileges  
-[ ] Formal reprimand  
-[ ] Other (specify)
+( ) Monetary compensation  
+( ) Replacement of destroyed or lost items  
+( ) Medical reimbursement  
+( ) Injunction or protective order  
+( ) Restoration of rights or privileges  
+( ) Formal reprimand  
+( ) Other (specify)
 
 [bold]DETAILS OF REQUESTED RELIEF:[/bold]  
 [italic]Write here.[/italic]

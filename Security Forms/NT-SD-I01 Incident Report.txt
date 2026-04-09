@@ -19,9 +19,9 @@
 [bold]TIME OF INCIDENT:[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: INCIDENT DETAILS[/bold][/head]
-[bold]TYPE OF INCIDENT:[/bold] [ ] Safety Hazard [ ] Equipment Failure [ ] Personnel Misconduct [ ] Other: __________
+[bold]TYPE OF INCIDENT:[/bold] ( ) Safety Hazard ( ) Equipment Failure ( ) Personnel Misconduct ( ) Other: __________
 [bold]DESCRIPTION OF INVOLVED INDIVIDUAL(S):[/bold]
-[bold]IMMEDIATE THREAT LEVEL:[/bold] [ ] Low [ ] Moderate [ ] Severe [ ] Critical
+[bold]IMMEDIATE THREAT LEVEL:[/bold] ( ) Low ( ) Moderate ( ) Severe ( ) Critical
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: SEQUENCE OF EVENTS[/bold][/head]
 [italic]Describe the incident in chronological order, including actions taken to mitigate or resolve.[/italic]
@@ -30,7 +30,7 @@
 [bold]SYSTEMS OR OPERATIONS AFFECTED:[/bold]
 [bold]INJURIES OR DAMAGE REPORTED:[/bold]
 [bold]IS ANY DEPARTMENT ENTIRELY NON-FUNCTIONAL?[/bold]
-[ ] Yes [ ] No  
+( ) Yes ( ) No  
 If YES, specify department(s): ______________________
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]I,[color=#1b67a5] Name[/color], do affirm that the information above is true and correct to the best of my knowledge and relayed to the best of my ability. By signing below, I hereby acknowledge that I may be held in contempt by a court of space law, or guilty of perjury under Nanotrasen Regulation 7716(c).[/color][/italic]

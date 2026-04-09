@@ -19,11 +19,11 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: REASON FOR DEMOTION[/bold][/head]
 [bold]CATEGORY:[/bold]  
-[ ] Conduct Failure  
-[ ] Performance Deficiency  
-[ ] Procedural / Regulatory Violation  
-[ ] Safety Negligence  
-[ ] Other:
+( ) Conduct Failure  
+( ) Performance Deficiency  
+( ) Procedural / Regulatory Violation  
+( ) Safety Negligence  
+( ) Other:
 
 [bold]SUMMARY OF ISSUE:[/bold]
 ─────────────────────────────────────────

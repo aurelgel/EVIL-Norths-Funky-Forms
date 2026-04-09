@@ -13,57 +13,57 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION A: GENERAL BAY STATUS[/bold][/head]
 [bold]OVERALL CONDITION:[/bold]
-[  ] Acceptable  
-[  ] Needs Attention  
-[  ] Inefficient / Disorganized  
-[  ] OSHA-Adjacent Catastrophe  
-[  ] Full Structural Chaos (Immediate Correction Required)
+( ) Acceptable  
+( ) Needs Attention  
+( ) Inefficient / Disorganized  
+( ) OSHA-Adjacent Catastrophe  
+( ) Full Structural Chaos (Immediate Correction Required)
 
 [bold]AISLE ACCESSIBILITY:[/bold]
-[  ] Clear  
-[  ] Partially Obstructed  
-[  ] Fully Blocked  
-[  ] “Cratemaze” Identified
+( ) Clear  
+( ) Partially Obstructed  
+( ) Fully Blocked  
+( ) “Cratemaze” Identified
 
 [bold]FLOOR SAFETY:[/bold]
-[  ] Clean, non-slip  
-[  ] Minor spills / debris  
-[  ] Frequent tripping hazards  
-[  ] Slippery / unsafe environment
+( ) Clean, non-slip  
+( ) Minor spills / debris  
+( ) Frequent tripping hazards  
+( ) Slippery / unsafe environment
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: INVENTORY CONDITION[/bold][/head]
 [bold]CRATE STACKING SAFETY:[/bold]
-[  ] Correct height  
-[  ] Slightly excessive  
-[  ] “Toppling imminent”  
-[  ] Violating at least two laws of physics
+( ) Correct height  
+( ) Slightly excessive  
+( ) “Toppling imminent”  
+( ) Violating at least two laws of physics
 
 [bold]LABELING & IDENTIFICATION:[/bold]
-[  ] All crates properly labeled  
-[  ] Some crates mislabeled  
-[  ] Many crates unlabeled  
-[  ] No labeling system exists or ever existed
+( ) All crates properly labeled  
+( ) Some crates mislabeled  
+( ) Many crates unlabeled  
+( ) No labeling system exists or ever existed
 
 [bold]MATERIAL STORAGE COMPLIANCE:[/bold]
-[  ] Properly sorted  
-[  ] Mixed categories  
-[  ] Hazardous proximity concerns  
-[  ] “Who put plasma next to the coffee machine?”
+( ) Properly sorted  
+( ) Mixed categories  
+( ) Hazardous proximity concerns  
+( ) “Who put plasma next to the coffee machine?”
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: STAFF PERFORMANCE OBSERVATIONS[/bold][/head]
 [bold]CRATE HANDLING COMPETENCE:[/bold]
-[  ] Acceptable  
-[  ] Careless  
-[  ] Frequently damaging items  
-[  ] Banana-peel-level hazard  
-[  ] “Should not be trusted with heavy objects”
+( ) Acceptable  
+( ) Careless  
+( ) Frequently damaging items  
+( ) Banana-peel-level hazard  
+( ) “Should not be trusted with heavy objects”
 
 [bold]ORGANIZATIONAL DISCIPLINE:[/bold]
-[  ] Good  
-[  ] Inconsistent  
-[  ] “Creative organization” methods  
-[  ] Nihilistic approach to order  
-[  ] Accepts chaos as a lifestyle
+( ) Good  
+( ) Inconsistent  
+( ) “Creative organization” methods  
+( ) Nihilistic approach to order  
+( ) Accepts chaos as a lifestyle
 ─────────────────────────────────────────
 [head=3][bold]SECTION D: CORRECTIVE ACTIONS RECOMMENDED[/bold][/head]
 

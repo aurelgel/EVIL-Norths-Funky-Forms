@@ -20,14 +20,14 @@
 [head=3][bold]SECTION B - TYPE OF AGREEMENT[/bold][/head]
 [italic]Select all applicable categories.[/italic]
 
-[ ] Contract for services  
-[ ] Labor or duty agreement  
-[ ] Inter-department cooperation agreement  
-[ ] Resource or supply allocation agreement  
-[ ] Settlement or resolution agreement  
-[ ] Research or data-sharing pact  
-[ ] Personal or civil arrangement  
-[ ] Other (specify)
+( ) Contract for services  
+( ) Labor or duty agreement  
+( ) Inter-department cooperation agreement  
+( ) Resource or supply allocation agreement  
+( ) Settlement or resolution agreement  
+( ) Research or data-sharing pact  
+( ) Personal or civil arrangement  
+( ) Other (specify)
 
 [bold]TITLE OR SHORT DESCRIPTION OF AGREEMENT:[/bold]  
 [italic]Write here.[/italic] 

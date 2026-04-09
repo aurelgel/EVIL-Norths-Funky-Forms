@@ -7,21 +7,21 @@
 
 [color=#cb0000][head=2]SECTION A[/head][/color]
 
-[bold]NAME:[/bold]         [color=blue]      [/color]
-                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]POSITION:[/bold]         [color=blue]      [/color]
-                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]NAME:[/bold]
+                           
+[bold]POSITION:[/bold]
+                               
 [bold]Rate your familiarity with [color=#cb0000]Space Law[/color] and [color=#cb0000]Sector Bylaws[/color]:[/bold]
             \[1]     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     ▪     \[10]
 
 [color=#cb0000][head=2]SECTION B[/head][/color]
 
-[bold]OFFICER NAME:[/bold]         [color=blue]      [/color]
-                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]OFFICER NAME:[/bold]
+                                 
 [bold]OFFICER POSITION:[/bold]
-[bold][color=#aaaaaa][ ][/color][/bold] Cadet         [bold][color=#aaaaaa][ ][/color][/bold] Officer         [bold][color=#aaaaaa][ ][/color][/bold] Brigmedic         [bold][color=#aaaaaa][ ][/color][/bold] Warden
-[bold][color=#aaaaaa][ ][/color][/bold] Head of Security       [bold][color=#aaaaaa][ ][/color][/bold] Other:      [color=blue]      [/color]
-                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#aaaaaa]( )[/color][/bold] Cadet         [bold][color=#aaaaaa]( )[/color][/bold] Officer         [bold][color=#aaaaaa]( )[/color][/bold] Brigmedic         [bold][color=#aaaaaa]( )[/color][/bold] Warden
+[bold][color=#aaaaaa]( )[/color][/bold] Head of Security       [bold][color=#aaaaaa]( )[/color][/bold] Other:      [color=blue][/color]      
+                                                     
 [color=#cb0000][head=2]SECTION C[/head][/color]
 [bold]When did the incident occur?[/bold]  [color=black]TIME (approx.):[/color][color=grey][/color]
                                                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

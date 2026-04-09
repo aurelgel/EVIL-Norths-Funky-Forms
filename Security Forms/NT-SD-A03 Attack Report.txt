@@ -28,7 +28,7 @@
 [bold]WEAPON OR METHOD USED:[/bold] 
 [bold]NUMBER OF ASSAILANTS:[/bold] 
 [bold]DESCRIPTION OF ATTACKER(s):[/bold]
-[bold]THREAT LEVEL: [ ] Low [ ] Moderate [ ] Severe [ ] Critical[/bold] 
+[bold]THREAT LEVEL: ( ) Low ( ) Moderate ( ) Severe ( ) Critical[/bold] 
 
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: SEQUENCE OF EVENTS[/bold][/head]

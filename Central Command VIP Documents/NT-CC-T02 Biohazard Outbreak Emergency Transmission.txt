@@ -20,9 +20,9 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: THREAT DECLARATION[/bold][/head]
 [bold]CONFIRMED THREAT TYPE:[/bold]  
-[ ] Active Zombie Infection  
-[ ] Biohazard "Blob" Conversion Event 
-[ ] Viral Infection   
+( ) Active Zombie Infection  
+( ) Biohazard "Blob" Conversion Event 
+( ) Viral Infection   
 
 [bold]CURRENT SITUATION SUMMARY:[/bold]  
 (Brief description of outbreak progression, breach points, or containment failures.)
@@ -35,10 +35,10 @@
 [color=#cb0000][bold]Request IMMEDIATE DEPLOYMENT of an Emergency Response Team at Central Command for survivor reception and quarantine.[/bold][/color]
 
 [bold]ADDITIONAL REQUESTS:[/bold]
-[ ] NONE REQUIRED  
-[ ] Biohazard Containment Protocol Guidance  
-[ ] Evacuation Authorization  
-[ ] Planetary / Sector-Level Quarantine  
-[ ] Other:
+( ) NONE REQUIRED  
+( ) Biohazard Containment Protocol Guidance  
+( ) Evacuation Authorization  
+( ) Planetary / Sector-Level Quarantine  
+( ) Other:
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]Transmission logged under Biohazard Protocol Z-Ω (Zeta-Omega).[/color][/italic]

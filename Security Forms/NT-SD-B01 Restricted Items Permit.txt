@@ -17,11 +17,11 @@ Allowed Item(s):
  - [color=grey]Sample Item[/color]
 
 The item(s) permitted are the following levels of Contraband:
-\[  ] Minor Contraband - HoS/Department Head Stamp
+\( ) Minor Contraband - HoS/Department Head Stamp
 [color=#888888](All departments items are MINOR contraband unless stated otherwise.)[/color]
-\[  ] Major Contraband - Captain Stamp
+\( ) Major Contraband - Captain Stamp
 [color=#888888](Security and Command Items are MAJOR contraband unless stated otherwise.)[/color]
-\[  ] Central Command Restricted - Central Command VIP Stamp
+\( ) Central Command Restricted - Central Command VIP Stamp
 [color=red][bold]EXCEPTIONS CAN NOT AND WILL NOT BE MADE FOR SYNDICATE AND OTHER NON-NT ITEMS.[/bold][/color]
 
 [italic]Please refer to the figure above and ensure that this document is stamped appropriately in order to be valid. Multiple contraband types can be approved so long as atleast one of the granters for each type on the document has stamped.[/italic]

@@ -11,7 +11,6 @@
 ─────────────────────────────────────────
 [bold]THIS FORM DOCUMENTS A [color=red] FAILURE TO COMPLY[/color] WITH A LAWFUL INTERNAL AFFAIRS INSTRUCTION.[/bold]
 ─────────────────────────────────────────
-
 [head=3][bold]SECTION A: REPORT DETAILS[/bold][/head]
 [bold]IA AGENT / NTR ID:[/bold]
 [bold]TIME OF INCIDENT:[/bold]
@@ -34,11 +33,11 @@
 [bold]IMPACT (IF ANY):[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION E: RECOMMENDED ACTION[/bold][/head]
-[ ] Verbal Reminder  
-[ ] Written Warning  
-[ ] Command Notification  
-[ ] Access Restriction  
-[ ] Formal Inquiry  
-[ ] Other:
+( ) Verbal Reminder  
+( ) Written Warning  
+( ) Command Notification  
+( ) Access Restriction  
+( ) Formal Inquiry  
+( ) Other:
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]Filed under IA Compliance Protocol 7-C.[/color][/italic]

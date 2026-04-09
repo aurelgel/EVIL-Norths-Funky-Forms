@@ -1,4 +1,4 @@
-# NT‑IA‑A01 Departmental Audit Report
+# NT-IA-A01 Departmental Audit Report
                            [color=#147e10] ╔══════════════════╗
                             ║███░███░░░░██░░░░░║
                             ║░██░████░░░██░░░░░║
@@ -12,29 +12,29 @@
 [bold]THIS REPORT DOCUMENTS A FORMAL [color=#cb0000]DEPARTMENTAL AUDIT[/color] CONDUCTED UNDER CORPORATE REGULATION 4-F.[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION A: AUDIT DETAILS[/bold][/head]
-[bold]AUDITOR NAME / ID:[/bold]
+[bold]AUDITOR NAME:[/bold]
 [bold]DEPARTMENT AUDITED:[/bold]
 [bold]TIME OF AUDIT:[/bold]
 [bold]REASON FOR AUDIT:[/bold] [ ] Routine  [ ] Complaint-Based  [ ] Incident-Based  [ ] Other:
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: PERSONNEL & OPERATIONS[/bold][/head]
 [bold]PERSONNEL STATUS:[/bold]  
-[ ] Fully Staffed  
-[ ] Understaffed  
-[ ] Significantly Understaffed  
+( ) Fully Staffed  
+( ) Understaffed  
+( ) Significantly Understaffed  
 
 [bold]OBSERVATIONS ON STAFF PERFORMANCE:[/bold]
 
 [bold]CHAIN OF COMMAND FUNCTIONALITY:[/bold]  
-[ ] Effective  
-[ ] Inconsistent  
-[ ] Ineffective
+( ) Effective  
+( ) Inconsistent  
+( ) Ineffective
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: COMPLIANCE & SAFETY[/bold][/head]
 [bold]SOP COMPLIANCE:[/bold]  
-[ ] Compliant  
-[ ] Minor Deviations  
-[ ] Major Deviations  
+( ) Compliant  
+( ) Minor Deviations  
+( ) Major Deviations  
 
 [bold]SAFETY PRACTICES (PPE, equipment, environment):[/bold]
 
@@ -44,18 +44,18 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION D: EQUIPMENT & RESOURCES[/bold][/head]
 [bold]EQUIPMENT CONDITION:[/bold]  
-[ ] Operational  
-[ ] Mixed  
-[ ] Poor  
+( ) Operational  
+( ) Mixed  
+( ) Poor  
 
 [bold]RESOURCE MANAGEMENT (materials, budget, supplies):[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION E: OVERALL ASSESSMENT[/bold][/head]
 [bold]GENERAL RATING:[/bold]  
-[ ] Excellent  
-[ ] Satisfactory  
-[ ] Needs Improvement  
-[ ] Critical Deficiency
+( ) Excellent  
+( ) Satisfactory  
+( ) Needs Improvement  
+( ) Critical Deficiency
 
 [bold]SUMMARY OF FINDINGS:[/bold]
 

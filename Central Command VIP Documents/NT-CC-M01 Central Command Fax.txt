@@ -12,14 +12,13 @@
 [bold]THIS FORM IS USED BY A NANOTRASEN REPRESENTATIVE TO TRANSMIT A FORMAL [color=#cb0000]FAX TO CENTRAL COMMAND[/color].[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION A: TRANSMISSION DETAILS[/bold][/head]
-[bold]NTR NAME / ID:[/bold]
-[bold]STATION:[/bold] Space Station 14
-[bold]DATE/TIME SENT:[/bold]
+[bold]REPRESENTATIVE NAME:[/bold]
+[bold]TIME SENT:[/bold]
 [bold]PRIORITY LEVEL:[/bold]  
-[ ] Routine  
-[ ] Elevated  
-[ ] Urgent  
-[ ] Crisis (Immediate CC Attention Required)
+( ) Routine  
+( ) Elevated  
+( ) Urgent  
+( ) Crisis (Immediate CC Attention Required)
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: MESSAGE CONTENT[/bold][/head]
 [bold]SUBJECT:[/bold]

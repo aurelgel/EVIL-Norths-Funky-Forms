@@ -20,9 +20,9 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: REQUESTED ITEMS[/bold][/head]
 [bold]FABRICATION / MATERIAL SOURCE:[/bold]
-[  ] Autolathe  
-[  ] Cargo Techfab  
-[  ] Material Silo
+( ) Autolathe  
+( ) Cargo Techfab  
+( ) Material Silo
 
 [bold]ITEM(S) OR MATERIAL(S) REQUESTED:[/bold]
 [bullet]
@@ -33,8 +33,8 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: RESTRICTION REVIEW[/bold][/head]
 [bold]ARE ANY ITEMS RESTRICTED / MINOR CONTRABAND?[/bold]
-[  ] No  
-[  ] Yes — QM or HoS authorization required
+( ) No  
+( ) Yes — QM or HoS authorization required
 
 If YES, provide justification:
 ─────────────────────────────────────────

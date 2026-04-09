@@ -37,25 +37,25 @@ without Central Command judicial authorization.
 [bold]SUMMARY OF ALLEGED OFFENSE(S):[/bold]  
 
 [bold]BASIS FOR REQUESTING TRIAL (Check all that apply):[/bold]  
-[ ] Inconclusive or conflicting evidence  
-[ ] Improper arrest or sentencing procedures
-[ ] Matter requires impartial adjudication  
-[ ] Conflicts of interest on‑station  
-[ ] Other (Specify below):  
+( ) Inconclusive or conflicting evidence  
+( ) Improper arrest or sentencing procedures
+( ) Matter requires impartial adjudication  
+( ) Conflicts of interest on‑station  
+( ) Other (Specify below):  
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: PRE‑TRIAL STATUS[/bold][/head]
 [bold]CURRENT STATUS OF THE ACCUSED:[/bold]  
-[ ] Detained  
-[ ] Temporarily Released Under Supervision  
-[ ] At Large On Station  
-[ ] Uncooperative / Refusing Summons  
+( ) Detained  
+( ) Temporarily Released Under Supervision  
+( ) At Large On Station  
+( ) Uncooperative / Refusing Summons  
 
 [bold]EVIDENCE SECURED:[/bold]  
-[ ] Physical Evidence Logged  
-[ ] Testimony Collected  
-[ ] Security Report Filed  
-[ ] Video / Sensor Logs Available  
-[ ] Other:  
+( ) Physical Evidence Logged  
+( ) Testimony Collected  
+( ) Security Report Filed  
+( ) Video / Sensor Logs Available  
+( ) Other:  
 ─────────────────────────────────────────
 [head=3][bold]SECTION D: LEGAL DECLARATION[/bold][/head]
 [italic]This section is to be completed by the presiding Legal Counsel or Internal Affairs Agent.[/italic]

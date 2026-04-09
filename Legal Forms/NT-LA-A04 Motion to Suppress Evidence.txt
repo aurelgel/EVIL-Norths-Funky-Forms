@@ -24,26 +24,26 @@
 [bullet]
 
 [bold]TYPE OF EVIDENCE:[/bold]  
-[ ] Physical Evidence  
-[ ] Security Camera Logs  
-[ ] Sensor or Telemetry Logs  
-[ ] Forensics Results  
-[ ] Testimony or Statements  
-[ ] Communications Logs  
-[ ] Other (specify)
+( ) Physical Evidence  
+( ) Security Camera Logs  
+( ) Sensor or Telemetry Logs  
+( ) Forensics Results  
+( ) Testimony or Statements  
+( ) Communications Logs  
+( ) Other (specify)
 ─────────────────────────────────────────
 
 [head=3][bold]SECTION C - BASIS FOR SUPPRESSION[/bold][/head]
 [italic]Select all applicable grounds and explain below.[/italic]
 
-[ ] Evidence obtained without lawful authorization  
-[ ] Evidence acquired during an improper search or seizure  
-[ ] Mishandled or broken chain of custody  
-[ ] Tampering suspected  
-[ ] Violation of counsel or privacy rights  
-[ ] Sec or departmental misconduct  
-[ ] Documentation inconsistencies  
-[ ] Other (specify)
+( ) Evidence obtained without lawful authorization  
+( ) Evidence acquired during an improper search or seizure  
+( ) Mishandled or broken chain of custody  
+( ) Tampering suspected  
+( ) Violation of counsel or privacy rights  
+( ) Sec or departmental misconduct  
+( ) Documentation inconsistencies  
+( ) Other (specify)
 
 [bold]EXPLANATION OF BASIS:[/bold]  
 [italic]Write here in detail why you believe this evidence was not obtained lawfully.[/italic]
@@ -51,11 +51,11 @@
 [head=3][bold]SECTION D - REQUESTED RELIEF[/bold][/head]
 [italic]Specify the action you request the Magistrate or reviewing authority to take.[/italic]
 
-[ ] Full suppression of listed evidence  
-[ ] Partial suppression (specify which parts)  
-[ ] Exclusion from trial or disciplinary review  
-[ ] Immediate review by Legal Affairs  
-[ ] Other (describe)
+( ) Full suppression of listed evidence  
+( ) Partial suppression (specify which parts)  
+( ) Exclusion from trial or disciplinary review  
+( ) Immediate review by Legal Affairs  
+( ) Other (describe)
 
 [bold]ADDITIONAL COMMENTS:[/bold]  
 (Write here)

@@ -18,30 +18,30 @@
 [bold]LOCATION:[/bold] (e.g., Bridge Office, OR, Briefing Room)
 [bold]INTERVIEW REFERENCE CODE:[/bold] NT-RP-C01
 
-[bold]INTERVIEW TYPE:[/bold] [ ] Scheduled    [ ] Ad-Hoc / On-Scene    [ ] Follow-Up
-[bold]REASON FOR INTERVIEW:[/bold] [ ] Alleged Misconduct    [ ] Performance Concern
-                               [ ] Clarification of Incident Report    [ ] Routine Review
-                               [ ] Other:
+[bold]INTERVIEW TYPE:[/bold] ( ) Scheduled    ( ) Ad-Hoc / On-Scene    ( ) Follow-Up
+[bold]REASON FOR INTERVIEW:[/bold] ( ) Alleged Misconduct    ( ) Performance Concern
+                               ( ) Clarification of Incident Report    ( ) Routine Review
+                               ( ) Other:
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: SUBJECT (COMMAND) INFORMATION[/bold][/head]
 [bold]SUBJECT NAME:[/bold]
-[bold]RANK/POSITION:[/bold] [ ] Captain  [ ] Head of Personnel  [ ] Head of Security  [ ] Chief Engineer
-                         [ ] Research Director  [ ] Chief Medical Officer  [ ] Acting Command
-                         [ ] Other:
+[bold]RANK/POSITION:[/bold] ( ) Captain  ( ) Head of Personnel  ( ) Head of Security  ( ) Chief Engineer
+                         ( ) Research Director  ( ) Chief Medical Officer  ( ) Acting Command
+                         ( ) Other:
 [bold]DEPARTMENT:[/bold]
 [bold]SHIFT IDENTIFIER:[/bold] (Round ID / Shift Time Window)
 [bold]RELATED REPORTS/TICKETS:[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: ALLEGATIONS / TOPICS UNDER REVIEW[/bold][/head]
 [italic]Check all that apply and provide brief context.[/italic]
-[ ] Abuse of Authority / Dereliction of Duty
-[ ] Breach of Corporate Regulation (specify):
-[ ] Safety or Security Negligence
-[ ] Crew Rights / Contractual Violations
-[ ] Resource Mismanagement (e.g., budget, cargo, armory access)
-[ ] Communication / Conduct Unbecoming
-[ ] Procedural Noncompliance (e.g., demotions, arrests, executions)
-[ ] Other:
+( ) Abuse of Authority / Dereliction of Duty
+( ) Breach of Corporate Regulation (specify):
+( ) Safety or Security Negligence
+( ) Crew Rights / Contractual Violations
+( ) Resource Mismanagement (e.g., budget, cargo, armory access)
+( ) Communication / Conduct Unbecoming
+( ) Procedural Noncompliance (e.g., demotions, arrests, executions)
+( ) Other:
 
 [bold]SUMMARY OF ALLEGATIONS / TOPICS:[/bold]
 ─────────────────────────────────────────
@@ -59,24 +59,24 @@
 
 [bold]COMPLIANCE CHECK:[/bold]
 [bold]Relevant Policies/Regs:[/bold]
-[bold]Findings:[/bold] [ ] Compliant   [ ] Noncompliant   [ ] Partial   [ ] Inconclusive
+[bold]Findings:[/bold] ( ) Compliant   ( ) Noncompliant   ( ) Partial   ( ) Inconclusive
 [bold]Notes:[/bold]
 
 [bold]NOTES (Policies/Regs Referenced):[/bold]
 
-[bold]IMPACT ASSESSMENT:[/bold] [ ] Crew Safety  [ ] Station Ops  [ ] Assets  [ ] Morale  [ ] Reputation
+[bold]IMPACT ASSESSMENT:[/bold] ( ) Crew Safety  ( ) Station Ops  ( ) Assets  ( ) Morale  ( ) Reputation
 Details:
 ─────────────────────────────────────────
 [head=3][bold]SECTION F: CONCLUSIONS & RECOMMENDATIONS[/bold][/head]
-[bold]CONCLUSION:[/bold] [ ] Substantiated  [ ] Partially Substantiated  [ ] Unsubstantiated  [ ] Inconclusive
+[bold]CONCLUSION:[/bold] ( ) Substantiated  ( ) Partially Substantiated  ( ) Unsubstantiated  ( ) Inconclusive
 
 [bold]RECOMMENDATIONS:[/bold]
-[ ] No Action / Coaching
-[ ] Written Warning (Command File)
-[ ] Temporary Restriction (specify area/authority):
-[ ] Remedial Training / SOP Review
-[ ] Formal Disciplinary Review (notify captain)
-[ ] Escalate to Central Command
-[ ] Other:
+( ) No Action / Coaching
+( ) Written Warning (Command File)
+( ) Temporary Restriction (specify area/authority):
+( ) Remedial Training / SOP Review
+( ) Formal Disciplinary Review (notify captain)
+( ) Escalate to Central Command
+( ) Other:
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]I, [color=#1b67a5]Name[/color], certify that this interview record is accurate to the best of my knowledge and collected in accordance with Nanotrasen policy. False statements may constitute perjury under Regulation 7716(c).[/color][/italic]

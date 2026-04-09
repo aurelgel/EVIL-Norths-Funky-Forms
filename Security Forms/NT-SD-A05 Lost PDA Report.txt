@@ -1,0 +1,46 @@
+# NT-SD-A05 Lost PDA Report
+                           [color=#9e1c1c] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REPORT A LOST, STOLEN, OR UNACCOUNTED‑FOR PERSONAL DATA ASSISTANT (PDA). PROMPT REPORTING IS REQUIRED DUE TO SECURITY IMPLICATIONS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – CREW MEMBER INFORMATION[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / ROLE:[/bold]  
+[bold]DEPARTMENT:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – PDA IDENTIFICATION[/bold][/head]
+
+[bold]PDA REGISTERED OWNER:[/bold]  
+[bold]JOB ACCESS TIED TO PDA:[/bold]  
+
+( ) STANDARD  
+( ) COMMAND‑LEVEL  
+( ) SECURITY‑SENSITIVE
+─────────────────────────────────────────
+[head=3][bold]SECTION C – LAST KNOWN STATUS[/bold][/head]
+
+[bold]LAST KNOWN LOCATION:[/bold]  
+[bold]APPROXIMATE TIME LAST SEEN:[/bold]  
+
+( ) CARRIED ON PERSON  
+( ) LEFT UNATTENDED  
+( ) BELIEVED STOLEN  
+( ) UNKNOWN  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – CIRCUMSTANCES[/bold][/head]
+[italic][color=#aaaaaa]Provide a factual account of events leading to the loss.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Failure to report a lost PDA in a timely manner may result in disciplinary action due to station security risk.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

@@ -27,11 +27,11 @@
 [bold]NOTES:[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION D: FOLLOW-UP (IF ANY)[/bold][/head]
-[ ] No Further Action Needed  
-[ ] Monitor Further  
-[ ] Recommend Review  
-[ ] Refer to Command  
-[ ] Escalate to Investigation
+( ) No Further Action Needed  
+( ) Monitor Further  
+( ) Recommend Review  
+( ) Refer to Command  
+( ) Escalate to Investigation
 
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]Logged under IA Record Protocol 4-M.[/color][/italic]

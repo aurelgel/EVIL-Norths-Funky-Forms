@@ -17,7 +17,7 @@
 [bold]REQUESTER NAME:[/bold]
 [bold]EMPLOYEE/NANOCHAT ID:[/bold]
 [bold]DEPARTMENT (if any):[/bold]
-[bold]REQUEST TYPE:[/bold] [  ] Departmental Delivery   [  ] Pickup Required
+[bold]REQUEST TYPE:[/bold] ( ) Departmental Delivery   ( ) Pickup Required
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: ORDER DETAILS[/bold][/head]
 [bold]REQUESTED CRATE(S) OR PACKAGE(S):[/bold]
@@ -27,7 +27,7 @@
 [bold]JUSTIFICATION FOR ORDER:[/bold]
 
 [bold]URGENCY LEVEL:[/bold]
-[  ] Routine   [  ] Elevated   [  ] High   [  ] EMERGENCY
+( ) Routine   ( ) Elevated   ( ) High   ( ) EMERGENCY
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: CARGO USE ONLY[/bold][/head]
 [bold]ORDER APPROVED BY:[/bold] (Name / Position)
