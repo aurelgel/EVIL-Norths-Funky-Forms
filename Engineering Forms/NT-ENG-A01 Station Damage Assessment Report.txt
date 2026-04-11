@@ -1,0 +1,48 @@
+# NT-ENG-A01 Station Damage Assessment Report
+                           [color=#f0ad4e] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+          ENGINEERING DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO DOCUMENT DAMAGE TO STATION STRUCTURE, SYSTEMS, OR INFRASTRUCTURE.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – REPORTING PERSONNEL[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / ROLE:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – AFFECTED LOCATION[/bold][/head]
+
+[bold]AREA / COMPARTMENT:[/bold]  
+[bold]DECK / COORDINATES (if known):[/bold]  
+────────────────────────────────────────
+[head=3][bold]SECTION C – DAMAGE CLASSIFICATION[/bold][/head]
+[italic][color=#aaaaaa]Select multiple if needed.[/italic][/color]
+
+( ) STRUCTURAL BREACH / FRAME COMPROMISE  
+( ) ATMOSPHERIC LOSS / UNSTABLE MIX  
+( ) PRIMARY / AUXILIARY POWER DAMAGE  
+( ) FIRE, HEAT, OR ELECTRICAL DAMAGE  
+( ) FLOODING / PRESSURIZED LEAK  
+( ) MULTI‑SYSTEM FAILURE    
+─────────────────────────────────────────
+[head=3][bold]SECTION D – OPERATIONAL IMPACT[/bold][/head]
+
+( ) LEVEL I – COSMETIC / FUNCTIONAL  
+( ) LEVEL II – DEGRADED PERFORMANCE  
+( ) LEVEL III – NON‑OPERATIONAL  
+( ) LEVEL IV – ESCALATING / CASCADE RISK   
+─────────────────────────────────────────
+[head=3][bold]SECTION E – NOTES[/bold][/head]
+[italic][color=#aaaaaa]Include observed cause, spread risk, or containment status.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]This record does not constitute clearance to enter, repair, or restore the affected area without Engineering authorization.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

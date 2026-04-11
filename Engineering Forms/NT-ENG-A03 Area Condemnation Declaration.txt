@@ -1,0 +1,59 @@
+# NT-ENG-A03 Area Condemnation Declaration
+                           [color=#f0ad4e] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+          ENGINEERING DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS RECORD FORMALLY DECLARES A STATION AREA UNSAFE FOR OCCUPATION AND UNSUITABLE FOR REPAIR OR RESTORATION FOR THE REMAINDER OF THE SHIFT. CONDDEMNED AREAS ARE CONSIDERED LOST ASSETS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – CONDEMNED ASSET IDENTIFICATION[/bold][/head]
+
+[bold]AREA / COMPARTMENT DESIGNATION:[/bold]  
+[bold]DECK / GRID REFERENCE:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – BASIS FOR CONDEMNATION[/bold][/head]
+[italic][color=#aaaaaa]Select all applicable failure conditions.[/color][/italic]
+
+( ) STRUCTURAL FAILURE OR FRAME INSTABILITY  
+( ) ATMOSPHERIC INSTABILITY OR UNCONTAINABLE LOSS  
+( ) POWER OR SYSTEM CASCADE RISK  
+( ) FIRE / THERMAL DAMAGE BEYOND SAFE LIMITS  
+( ) INSUFFICIENT RESOURCES FOR SAFE REPAIR  
+( ) REPAIR ATTEMPTS UNSUCCESSFUL  
+─────────────────────────────────────────
+[head=3][bold]SECTION C – OPERATIONAL STATUS OF AREA[/bold][/head]
+
+( ) NON‑OPERATIONAL  
+( ) HAZARDOUS TO PERSONNEL  
+( ) ESCALATION RISK IF DISTURBED
+─────────────────────────────────────────
+[head=3][bold]SECTION D – ACCESS & CONTROL MEASURES[/bold][/head]
+
+( ) AREA SEALED  
+( ) ACCESS RESTRICTED TO AUTHORIZED ENGINEERING ONLY  
+( ) EVA TRANSIT PROHIBITED  
+( ) PHYSICAL SIGNAGE POSTED 
+─────────────────────────────────────────
+[head=3][bold]SECTION E – ENGINEERING REMARKS[/bold][/head]
+[italic][color=#aaaaaa]Include reference to relevant damage or incident records if applicable.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION F – STATEMENT OF ACCURACY & COMPLIANCE[/bold][/head]
+
+I certify that this condemnation determination has been made to the best of my knowledge and professional judgment based on conditions observed at the time of filing. I acknowledge that falsification or intentional misrepresentation of this record constitutes a violation of NanoTrasen Regulation 9-L and may result in disciplinary action or revocation of engineering credentials.
+
+( ) CERTIFIED AS TRUE AND ACCURATE  
+
+[bold]NAME:[/bold]
+[bold]RANK / POSITION:[/bold]
+[bold]SHIFT TIME:[/bold]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Condemned areas are not to be re‑entered or modified without Chief Engineer authorization. The departmental head's stamp is required to certify this report.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

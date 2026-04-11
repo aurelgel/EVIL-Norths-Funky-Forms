@@ -1,0 +1,56 @@
+# NT-ENG-B01 Building Permit
+                           [color=#f0ad4e] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+          ENGINEERING DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REQUEST AUTHORIZATION FOR STRUCTURAL, ARCHITECTURAL, OR FUNCTIONAL MODIFICATIONS TO STATION FACILITIES. ALL MODIFICATIONS REQUIRE ENGINEERING REVIEW AND CHIEF ENGINEER APPROVAL PRIOR TO COMMENCEMENT.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – REQUESTING PARTY[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / ROLE:[/bold]  
+[bold]DEPARTMENT:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – PROPOSED MODIFICATION DETAILS[/bold][/head]
+
+[bold]AFFECTED AREA / ROOM:[/bold]  
+[bold]DECK / LOCATION:[/bold]  
+
+[italic][color=#aaaaaa]Describe the intended modification or construction.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION C – SCOPE OF WORK[/bold][/head]
+
+( ) WALL OR PARTITION CHANGES  
+( ) FLOORING OR STRUCTURAL ELEMENTS  
+( ) POWER OR ATMOSPHERICS ADJUSTMENTS  
+( ) EQUIPMENT INSTALLATION / REMOVAL  
+( ) COSMETIC / NON‑STRUCTURAL MODIFICATION  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – OPERATIONAL JUSTIFICATION[/bold][/head]
+[italic][color=#aaaaaa]Explain why this modification is required or desired.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION F – CHIEF ENGINEER AUTHORIZATION[/bold][/head]
+
+I have reviewed this request and the associated engineering assessment
+and authorize the described modification subject to station safety
+standards and engineering oversight.
+
+( ) APPROVED  
+( ) APPROVED WITH CONDITIONS  
+( ) DENIED  
+
+[bold]CHIEF ENGINEER NAME:[/bold]
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Unauthorized structural modifications may be removed without notice and may result in disciplinary action.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

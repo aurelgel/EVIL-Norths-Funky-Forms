@@ -1,0 +1,57 @@
+# NT-ENG-A02 Engineering Incident Review Record
+                           [color=#f0ad4e] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+          ENGINEERING DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS RECORD DOCUMENTS AN ENGINEERING‑RELATED INCIDENT RESULTING IN DAMAGE, OPERATIONAL RISK, OR SERVICE INTERRUPTION. IT IS USED FOR INTERNAL REVIEW, LIABILITY ASSESSMENT, AND PREVENTION OF REOCCURRENCE.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – INCIDENT SUMMARY[/bold][/head]
+
+[bold]SHIFT TIME (STATION STANDARD):[/bold]  
+[bold]PRIMARY LOCATION / SYSTEM AFFECTED:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]SECTION B – INCIDENT CLASSIFICATION[/bold][/head]
+[italic][color=#aaaaaa]Select the most applicable classification.[/color][/italic]
+
+( ) SYSTEM FAILURE  
+( ) OPERATOR ERROR  
+( ) UNSCHEDULED MODIFICATION / WORKAROUND  
+( ) POWER OR ATMOS CASCADE  
+( ) EXTERNAL INTERFERENCE  
+( ) CAUSE UNDETERMINED
+─────────────────────────────────────────
+[head=3][bold]SECTION C – INCIDENT DESCRIPTION[/bold][/head]
+[italic][color=#aaaaaa]Provide a concise factual account of observed events.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D – IMMEDIATE RESPONSE ACTIONS[/bold][/head]
+
+( ) SYSTEM ISOLATED  
+( ) POWER DISCONNECTED  
+( ) AREA SEALED / EVACUATED  
+( ) TEMPORARY MITIGATION APPLIED  
+( ) NO SAFE ACTION AVAILABLE  
+─────────────────────────────────────────
+[head=3][bold]SECTION E – OPERATIONAL IMPACT[/bold][/head]
+
+( ) NO SERVICE INTERRUPTION  
+( ) DEGRADED FUNCTIONALITY  
+( ) LOCAL SYSTEM FAILURE  
+( ) DEPARTMENT‑LEVEL DISRUPTION  
+( ) STATION‑WIDE RISK CONDITION  
+─────────────────────────────────────────
+[head=3][bold]SECTION F – ENGINEERING REVIEW[/bold][/head]
+[italic][color=#aaaaaa]Include preliminary cause assessment or follow‑up required.[/color][/italic]
+
+[italic]Write here.[/italic] 
+─────────────────────────────────────────
+[color=#aaaaaa][italic]This record may be referenced by subsequent damage assessments, condemnation notices, or operational status declarations.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

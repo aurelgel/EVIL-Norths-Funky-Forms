@@ -1,0 +1,41 @@
+# NT-ENG-A05 Work Order Request
+                           [color=#f0ad4e] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+          ENGINEERING DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM IS USED TO REQUEST ROUTINE ENGINEERING WORK, REPAIRS, OR ADJUSTMENTS. SUBMISSION DOES NOT GUARANTEE IMMEDIATE ACTION OR PRIORITY.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – REQUESTING PARTY[/bold][/head]
+
+[bold]NAME:[/bold]  
+[bold]JOB / ROLE:[/bold]   
+─────────────────────────────────────────
+[head=3][bold]SECTION B – WORK LOCATION[/bold][/head]
+
+[bold]DEPARTMENT (IF APPLICABLE):[/bold]
+[bold]AREA / ROOM:[/bold]    
+─────────────────────────────────────────
+[head=3][bold]SECTION C – TYPE OF REQUEST[/bold][/head]
+[italic][color=#aaaaaa]Select the most applicable category.[/color][/italic]
+
+( ) STRUCTURAL REPAIR  
+( ) POWER OR LIGHTING  
+( ) ATMOSPHERICS  
+( ) EQUIPMENT INSTALLATION / REMOVAL  
+( ) COSMETIC / QUALITY‑OF‑LIFE  
+( ) OTHER  
+─────────────────────────────────────────
+[head=3][bold]SECTION D – REQUESTED URGENCY[/bold][/head]
+
+( ) ROUTINE  
+( ) ELEVATED    
+─────────────────────────────────────────
+[color=#aaaaaa][italic]Emergency conditions should be reported via radio or direct contact and may require separate incident documentation.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]

@@ -1,0 +1,57 @@
+# NT-ENG-A04 Department Operational Failure Declaration
+                           [color=#f0ad4e] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+          ENGINEERING DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS RECORD DECLARES A STATION DEPARTMENT OR CORE FUNCTION OPERATIONALLY INEFFECTIVE DUE TO DAMAGE, SYSTEM LOSS, OR RESOURCE DENIAL. THIS DECLARATION IS USED TO INFORM COMMAND‑LEVEL DECISION MAKING, INCLUDING EVACUATION CONSIDERATION.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A – AFFECTED DEPARTMENT[/bold][/head]
+
+[bold]DEPARTMENT NAME:[/bold]  
+[bold]PRIMARY FUNCTION(S):[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B – BASIS FOR OPERATIONAL FAILURE[/bold][/head]
+[italic][color=#aaaaaa]Select all applicable conditions.[/color][/italic]
+
+( ) CRITICAL AREA(S) DESTROYED OR CONDEMNED  
+( ) REQUIRED EQUIPMENT NON‑FUNCTIONAL OR LOST  
+( ) POWER OR ATMOSPHERICS UNSUSTAINABLE
+( ) REPAIR TIME EXCEEDS OPERATIONAL WINDOW  
+( ) FUNCTION CANNOT BE SAFELY RESTORED THIS SHIFT 
+─────────────────────────────────────────
+[head=3][bold]SECTION C – CURRENT FUNCTIONAL STATUS[/bold][/head]
+
+( ) PARTIALLY FUNCTIONAL BUT INEFFECTIVE  
+( ) NON‑FUNCTIONAL  
+( ) HAZARDOUS TO OPERATE 
+─────────────────────────────────────────
+[head=3][bold]SECTION D – OPERATIONAL IMPACT[/bold][/head]
+
+( ) LOCALIZED DEPARTMENT FAILURE  
+( ) CASCADING EFFECT ON OTHER DEPARTMENTS  
+( ) CRITICAL TO STATION CONTINUITY  
+─────────────────────────────────────────
+[head=3][bold]SECTION E – ENGINEERING ASSESSMENT[/bold][/head]
+[italic][color=#aaaaaa]Reference relevant damage reports or incident records if available.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION F – CHIEF ENGINEER DETERMINATION[/bold][/head]
+
+[italic]I have reviewed the above assessment and determine that the listed department is operationally ineffective and unable to fulfill its intended function for the remainder of the shift.[/italic]
+
+( ) OPERATIONAL FAILURE CONFIRMED  
+
+[bold]CHIEF ENGINEER NAME:[/bold] 
+[bold]SHIFT TIME:[/bold] 
+─────────────────────────────────────────
+[color=#aaaaaa][italic]
+This declaration may be used to support evacuation, station shutdown, or mission termination decisions.[/italic][/color]
+
+                                        [bold]- SIGN BELOW -[/bold]
