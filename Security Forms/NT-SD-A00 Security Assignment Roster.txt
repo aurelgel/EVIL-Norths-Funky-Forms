@@ -1,0 +1,46 @@
+#NT-SD-A00 Security Assignment Roster
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT DEFINES THE [color=#cb0000]OPERATIONAL ORGANIZATION[/color] OF SECURITY PERSONNEL FOR THE CURRENT SHIFT.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: HEADQUARTERS[/bold][/head]
+[bold]Security Commander:[/bold]
+[bold]Warden:[/bold]
+[bold]Detective(s):[/bold]
+[bold]Attorney(s) (if assigned):[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: SQUAD STRUCTURE[/bold][/head]
+[bold]ALFA SQUAD[/bold]
+• Officer 1  
+• Officer 2  
+
+[bold]BRAVO SQUAD[/bold]
+• Officer 1  
+• Officer 2  
+
+[bold]CHARLIE SQUAD[/bold]
+• Officer 1  
+• Officer 2  
+
+[bold]DELTA SQUAD[/bold]
+• Officer 1  
+• Officer 2  
+─────────────────────────────────────────
+[head=3][bold]SECTION C: SPECIAL ASSIGNMENTS[/bold][/head]
+[color=#aaaaaa][italic]As needed.[/italic][/color]
+
+[bold]ARMORY TECHNICIAN:[/bold]  
+[color=#aaaaaa][italic](Responsible for issuing, tracking, and securing departmental weaponry and tactical equipment.)[/italic][/color]
+
+[bold]ADMINISTRATIVE OFFICER (AO):[/bold]  
+[color=#aaaaaa][italic](Handles paperwork intake, witness depositions, assault reports, and civilian-facing administrative duties.)[/italic][/color]
+──────────────────────────────────────────
+[bold]UPDATE THIS DOCUMENT WHEN PERSONNEL CHANGE OR SQUAD COMPOSITION IS ALTERED.[/bold]

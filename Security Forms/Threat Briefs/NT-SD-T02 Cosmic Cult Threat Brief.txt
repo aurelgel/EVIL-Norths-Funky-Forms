@@ -1,0 +1,73 @@
+#NT-SD-T02 Cosmic Cult Threat Brief
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]CLASSIFICATION: [color=#cb0000]LEVEL 4 – EYES ONLY[/color][/bold]
+─────────────────────────────────────────
+[head=3][bold]THREAT OVERVIEW[/bold][/head]
+The Cosmic Cult is a conversion‑based extremist group devoted to extra‑dimensional intelligences collectively referred to as “the Beyond.” Cultists siphon a metaphysical resource known as *Entropy* from living crew, using it to empower a central structure called the *Monument*. Once fully empowered, the cult can perform catastrophic rituals capable of destabilizing the station, subverting artificial intelligence, or summoning large‑scale anomalies.
+
+Their doctrine emphasizes inevitability, fatalism, and the “gentle ending” of all things. Cultists are highly coordinated, share progress collectively, and grow exponentially more dangerous as their Monument gains power.
+─────────────────────────────────────────
+[head=3][bold]IDENTIFICATION MARKERS[/bold][/head]
+[bullet] References to “the Beyond,” “the Veil,” “the Signal,” or “Entropy”.
+[bullet] Possession of runes, glyphs, or ritual markings.
+[bullet] Trance‑like behavior, dissociation, or sudden ideological shifts.
+[bullet] Unexplained health decay in crew following close contact.
+[bullet] Strange structures or symbols appearing in maintenance or secluded areas.
+─────────────────────────────────────────
+[head=3][bold]BEHAVIORAL PROFILE[/bold][/head]
+[bullet] Avoids unnecessary killing; prefers keeping crew alive for Entropy extraction.
+[bullet] Operates in cells, coordinating silently via anomalous communication.
+[bullet] Rapidly converts crew once the Monument is active.
+[bullet] Defends empowered structures with fanatic resolve.
+[bullet] Escalates from subtle manipulation to open ritual activity as power increases.
+─────────────────────────────────────────
+[head=3][bold]THREAT CAPABILITIES[/bold][/head]
+
+[bold]Entropy Siphoning[/bold]  
+[bullet] Cultists drain Entropy from living crew, causing slow health decay. Entropy fuels all higher‑order rituals and Monument empowerment.
+─────────────────────────────────────────
+[bold]Conversion Rituals[/bold]  
+[bullet] Once the Monument is constructed, cultists can scribe glyphs to forcibly convert crew.  
+[bullet] Mindshielded personnel are immune until the Monument reaches full power.  
+[bullet] Failed conversions risk exposing the cult.
+
+[bullet][bold]NOTICE:[/bold] As a countermeasure, Security may employ a Containment Oubliette - a specialized deconversion chamber that locks the subject inside and forcibly severs their connection cult. Oubliettes can be manufactured by the science department under restricted protocols or obtained via the anomalous containment procedures crate from cargo.
+─────────────────────────────────────────
+[bold]Vacuous Chantries[/bold]  
+[bullet] Empowered cultists can trap cyborgs inside a Chantry, initiating transformation into an *Entropic Colossus*.  
+[bullet] Chantries trigger stationwide alerts and must be destroyed to free the victim.  
+[bullet] A completed Colossus is a severe station‑level threat.
+─────────────────────────────────────────
+[bold]Malign Law (AI Corruption)[/bold]  
+[bullet] Cultists can overwrite the Station AI’s laws through unknown means.  
+[bullet] This aligns the AI with the cult and grants it access to cult communication.  
+[bullet] Crew can reverse this by reinstalling a safe lawboard.
+─────────────────────────────────────────
+[bold]Atmospheric and Spatial Distortion[/bold]  
+[bullet] Vacuous Spires rapidly consume local atmosphere and generate additional Entropy motes.
+─────────────────────────────────────────
+[bold]Final Ritual (“Ushering the End”)[/bold]  
+[bullet] Once the Monument is fully empowered, the cult can perform a catastrophic ritual intended to summon an extra‑dimensional entity and destroy the station.
+─────────────────────────────────────────
+[head=3][bold]RECOMMENDED RESPONSE[/bold][/head]
+[bullet] Conduct sweeps of maintenance areas for glyphs, runes, and monument construction.
+[bullet] Prioritize protection AI Upload Console.
+[bullet] Detain individuals exhibiting trance‑like behavior or ritual involvement.
+[bullet] Prevent cultists from gathering in groups.
+[bullet] Neutralize the cult before it reaches full empowerment.
+─────────────────────────────────────────
+[head=3][bold]AUTHORIZED EQUIPMENT[/bold][/head]
+[bullet] Lethal weaponry  
+[bullet] Portable flashers and crowd‑control equipment  
+[bullet] Containment Oubliette 
+─────────────────────────────────────────
+[color=#cb0000][bold]THIS DOCUMENT MUST BE BURNED IMMEDIATELY AFTER READING.[/bold][/color]

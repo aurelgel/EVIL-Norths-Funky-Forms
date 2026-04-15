@@ -1,4 +1,4 @@
-# NT-ENG-A04 Department Operational Failure Declaration
+# NT-ENG-A04 Department Operational Loss Declaration
                            [color=#f0ad4e] ╔══════════════════╗
                             ║███░███░░░░██░░░░░║
                             ║░██░████░░░██░░░░░║

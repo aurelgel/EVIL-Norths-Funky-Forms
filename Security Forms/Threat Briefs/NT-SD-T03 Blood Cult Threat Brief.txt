@@ -1,0 +1,62 @@
+# NT-SD-T03 Blood Cult Threat Brief
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]CLASSIFICATION: [color=#cb0000]LEVEL 4 – EYES ONLY[/color][/bold]
+─────────────────────────────────────────
+[head=3][bold]THREAT OVERVIEW[/bold][/head]
+The Blood Cult is a violent, ritual‑driven extremist group devoted to an extra‑dimensional entity referred to as “Nar'Sie.” Cultists perform sacrificial rites, carve runes into surfaces and victims, and construct occult structures that empower their abilities. Their strength escalates rapidly as more blood is spilled, making early disruption essential.
+─────────────────────────────────────────
+[head=3][bold]IDENTIFICATION MARKERS[/bold][/head]
+[bullet] Carved runes, blood sigils, or ritual circles.  
+[bullet] Victims found exsanguinated or with patterned lacerations.  
+[bullet] Improvised ritual blades or bone‑like weaponry.  
+[bullet] Groups chanting, carving, or performing coordinated rites.  
+[bullet] Sudden disappearance of crew followed by ritual activity.
+─────────────────────────────────────────
+[head=3][bold]BEHAVIORAL PROFILE[/bold][/head]
+[bullet] Prefers ambushes, kidnappings, and isolated targets.  
+[bullet] Escalates quickly from covert rituals to open violence.  
+[bullet] Operates in small, tightly coordinated cells.  
+[bullet] Prioritizes capturing victims alive for sacrifice.  
+[bullet] Constructs ritual structures in maintenance or secluded areas.
+─────────────────────────────────────────
+[head=3][bold]THREAT CAPABILITIES[/bold][/head]
+
+[bold]Blood Rites[/bold]  
+[bullet] Rituals enhance strength, resilience, or mobility. Rites grow stronger with each successful sacrifice.
+
+[bold]Runic Carving[/bold]  
+[bullet] Blood runes empower cultists, weaken victims, or create barriers. Often placed in chokepoints.
+
+[bold]Sacrificial Conversion[/bold]  
+[bullet] Captured crew may be forcibly converted through bloodletting rituals. Mindshielded personnel resist conversion but remain high‑value targets.
+
+[bold]Constructed Altars[/bold]  
+[bullet] Altars serve as focal points for major rituals and empower nearby cultists. Destroying altars disrupts coordination.
+
+[bold]Blood‑Forged Weaponry[/bold]  
+[bullet] Cultists manifest blades, hooks, and bone‑like weapons capable of severe trauma.
+
+[bullet][bold]NOTICE:[/bold] Security may employ a Containment Oubliette as a countermeasure. While designed for cosmic‑class deconversion, it has limited effectiveness in severing Blood‑based ritual influence. Oubliettes can be manufactured by the science department under restricted protocols or obtained via the anomalous containment procedures crate from cargo.
+─────────────────────────────────────────
+[head=3][bold]RECOMMENDED RESPONSE[/bold][/head]
+[bullet] Sweep maintenance for runes, altars, and ritual sites.  
+[bullet] Prioritize rescue of kidnapped crew before sacrifice.  
+[bullet] Destroy altars and runic structures immediately.  
+[bullet] Maintain squad cohesion; avoid isolated patrols.  
+[bullet] Use ranged weapons to avoid close‑quarters ambushes.
+─────────────────────────────────────────
+[head=3][bold]AUTHORIZED EQUIPMENT[/bold][/head]
+[bullet] Lethal weaponry.  
+[bullet] Flashbangs and crowd‑control tools. 
+[bullet] Containment Oubliette
+─────────────────────────────────────────
+[color=#cb0000][bold]THIS DOCUMENT MUST BE BURNED IMMEDIATELY AFTER READING.[/bold][/color]
