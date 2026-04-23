@@ -1,0 +1,36 @@
+# NT-SD-I01 Incident Report
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS REPORT REPRESENTS AN OFFICIAL DOCUMENTATION OF AN [color=#cb0000]UNUSUAL OR DISRUPTIVE EVENT[/color] UNDER NANOTRASEN CORPORATE REGULATION 17-D.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: REPORTER DETAILS[/bold][/head]
+[bold]REPORTER NAME:[/bold]
+[bold]EMPLOYEE/NANOCHAT ID:[/bold]
+[bold]DEPARTMENT:[/bold]
+[bold]LOCATION OF INCIDENT:[/bold]
+[bold]TIME OF INCIDENT:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: INCIDENT DETAILS[/bold][/head]
+[bold]TYPE OF INCIDENT:[/bold] ( ) Safety Hazard ( ) Equipment Failure ( ) Personnel Misconduct ( ) Other:
+[bold]DESCRIPTION OF INVOLVED INDIVIDUAL(S):[/bold]
+[bold]IMMEDIATE THREAT LEVEL:[/bold] ( ) Low ( ) Moderate ( ) Severe ( ) Critical
+─────────────────────────────────────────
+[head=3][bold]SECTION C: SEQUENCE OF EVENTS[/bold][/head]
+[italic]Describe the incident in chronological order, including actions taken to mitigate or resolve.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SECTION D: IMPACT ASSESSMENT[/bold][/head]
+[bold]SYSTEMS OR OPERATIONS AFFECTED:[/bold]
+[bold]INJURIES OR DAMAGE REPORTED:[/bold]
+[bold]IS ANY DEPARTMENT ENTIRELY NON-FUNCTIONAL?[/bold]
+( ) Yes ( ) No  
+If YES, specify department(s):
+─────────────────────────────────────────
+[italic][color=#aaaaaa]I,[color=#1b67a5] Name[/color], do affirm that the information above is true and correct to the best of my knowledge and relayed to the best of my ability. By signing below, I hereby acknowledge that I may be held in contempt by a court of space law, or guilty of perjury under Nanotrasen Regulation 7716(c).[/color][/italic]

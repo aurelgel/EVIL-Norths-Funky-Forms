@@ -1,0 +1,35 @@
+#NT-SEC-B01 Restricted Items Permit
+[color=#9e1c1c]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN CORPORATION
+               SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS DOCUMENT AUTHORIZES TEMPORARY POSSESSION OF A RESTRICTED ITEM UNDER NANOTRASEN REGULATION 44‑B.UNAUTHORIZED TRANSFER, MISUSE, OR ALTERATION OF THIS PERMIT IS A CLASS‑C SECURITY OFFENSE.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: REQUESTER DETAILS[/bold][/head]
+[bold]SUBJECT NAME:[/bold]
+[bold]EMPLOYEE/NANOCHAT ID:[/bold]
+[bold]DEPARTMENT/ROLE:[/bold]
+[bold]ISSUING OFFICER:[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION B: AUTHORIZED ITEMS REQUESTED[/bold][/head]
+[color=grey][italic]List each restricted item being issued or permitted. Be specific.[/color][/italic]
+[bullet]
+[bullet]
+[bullet]
+─────────────────────────────────────────
+[head=3][bold]SECTION C: PURPOSE OF ISSUE[/bold][/head]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SUBJECT ACKNOWLEDGMENT[/bold][/head]
+[italic]NOTICE: Items must remain on‑person or secured at all times. Items may not be transferred, loaned, or modified. Items must be surrendered immediately upon request by Security. Misuse may result in confiscation, elevated charges, or departmental review.
+
+By signing below, the subject acknowledges receipt of the listed item(s), understands all conditions of possession, and accepts responsibility for proper use.[/italic]
+
+                                        [bold]- SIGN BELOW -[/bold]

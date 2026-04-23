@@ -1,5 +1,4 @@
-# NT-SD-A01 Witness Deposition
-
+#NT-SD-C01 Personnel Search Warrant
 [color=#9e1c1c]                            ╔══════════════════╗
                             ║███░███░░░░██░░░░░║
                             ║░██░████░░░██░░░░░║
@@ -11,19 +10,18 @@
                SECURITY DEPARTMENT - SPACE STATION 14[/color][/bold]
 
 ─────────────────────────────────────────
-
-[bold]THIS DEPOSITION REPRESENTS A WITNESSES [color=#cb0000]OFFICIAL REPORT[/color] FOR MATTERS IN BREACH OF SPACE LAW.[/bold]
-
+[bold]THIS DOCUMENT SERVES AS AN OFFICIAL [color=#cb0000]WARRANT OF SEARCH[/color] FOR PARTICULAR STATION PERSONNEL. THIS DOCUMENT IS [color=#cb0000]INVALID UNLESS STAMPED[/color].[/bold]
 ─────────────────────────────────────────
+[head=3][bold]SECTION A: WARRANT DETAILS[/bold][/head]
 
-WITNESS: [color=#1b67a5] Sample[/color] 
+[bold]REQUESTING OFFICER:[/bold]
 
-OFFICER RECEIVEING DEPOSITION: [color=#1b67a5] Sample, Position[/color]
+[bold]WARRANT TARGET:[/bold]
 
+[bold]WARRANT REASON:[/bold]
 ─────────────────────────────────────────
+[italic]If illegal items are found to be in the possession of the searched individual they will be confiscated and the individual may be detained at the officers discretion. [bold]Legal items must be returned after a search.[/bold]
 
-TESTIMONY:  [italic][color=#1b67a5] Sample[/color][/italic]
+[color=#aaaaaa]This document is not valid unless stamped by at least one of the listed required personnel.
 
-─────────────────────────────────────────
-
-[italic][color=#aaaaaa]I,[color=#1b67a5] Name[/color], do affirm that the information above is true and correct to the best of my knowledge and relayed to the best of my ability. By signing below, I hereby acknowledge that I may be held in contempt by a court of space law, or guilty of perjury under Nanotrasen Regulation 7716(c).
+This form follows NT Space Law §1-2.1. Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
