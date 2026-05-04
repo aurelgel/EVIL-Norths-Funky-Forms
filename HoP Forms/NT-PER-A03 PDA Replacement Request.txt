@@ -37,8 +37,8 @@
 [italic][color=#aaaaaa]Access granted will match current job role unless otherwise approved.[/color][/italic]
 
 ( ) STANDARD JOB ACCESS ONLY  
-( ) COMMAND‑LEVEL ACCESS  
-( ) SECURITY‑SENSITIVE ACCESS  
+( ) COMMAND-LEVEL ACCESS  
+( ) SECURITY-SENSITIVE ACCESS  
 
 [bold]ADDITIONAL ACCESS REQUESTED (if any):[/bold]  
 [bullet]

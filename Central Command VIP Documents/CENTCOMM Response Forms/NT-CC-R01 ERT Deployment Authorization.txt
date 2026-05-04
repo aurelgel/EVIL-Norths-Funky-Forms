@@ -1,0 +1,28 @@
+# NT-CC-R01 ERT Deployment Authorization
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              CENTRAL COMMAND OPERATIONS DIVISION[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS NOTICE CONFIRMS CENTRAL COMMAND’S DECISION REGARDING AN EMERGENCY RESPONSE TEAM REQUEST.[/bold] 
+─────────────────────────────────────────
+[bold]TIME RECEIVED:[/bold] 
+
+[bold]ERT TYPE REQUESTED:[/bold]  
+( ) CBURN   ( ) ENGINEERING   ( ) SECURITY  
+( ) JANITORIAL  
+
+[bold]CENTCOM DECISION:[/bold]  
+( ) APPROVED  
+( ) DENIED   
+─────────────────────────────────────────
+[bold]CENTCOM NOTES / DIRECTIVES[/bold]  
+[color=grey][italic]Additional instructions, operational expectations, or clarifications.[/italic][/color]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────

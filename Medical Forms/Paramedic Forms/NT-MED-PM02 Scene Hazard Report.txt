@@ -1,0 +1,56 @@
+# NT-MED-PM02 Scene Hazard Report
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM DOCUMENTS HAZARDS ENCOUNTERED DURING FIELD RESPONSE AND IS INTENDED FOR MEDICAL, SECURITY, AND ENGINEERING AWARENESS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SCENE DETAILS[/bold][/head]
+[bold]LOCATION:[/bold]  
+[bold]TIME OF ARRIVAL:[/bold]  
+[bold]RESPONDING PARAMEDIC(S):[/bold]  
+─────────────────────────────────────────
+[head=3][bold]HAZARDS OBSERVED[/bold][/head]
+( ) Active violence/hostile entity
+( ) Bloodborne contamination
+( ) Chemical spill/toxic exposure
+( ) Fire/extreme heat
+( ) Electrical hazard
+( ) Atmospherics failure (low O2 / high CO2 / pressure loss)
+( ) Radiation exposure
+( ) Structural instability/debris
+( ) Biological anomaly
+( ) Unknown hazard
+( ) Other:
+─────────────────────────────────────────
+[head=3][bold]PATIENT CONDITION ON DISCOVERY[/bold][/head]
+( ) Conscious
+( ) Unconscious
+( ) Critical
+( ) Deceased
+( ) Unable to reach patient due to hazard
+─────────────────────────────────────────
+[head=3][bold]ACTIONS TAKEN[/bold][/head]
+( ) Scene secured by Paramedic  
+( ) Scene unsafe - requested Security  
+( ) Scene unsafe - requested Engineering  
+( ) Patient extracted from hazard zone  
+( ) Patient stabilized on-site  
+( ) Patient transported to Medbay  
+( ) No patient found  
+( ) Other:
+─────────────────────────────────────────
+[head=3][bold]ADDITIONAL NOTES[/bold][/head]
+[italic][color=grey]Describe scene conditions, hazards, and any relevant observations.[/color][/italic]  
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[bold]RESPONDING PARAMEDIC INITIALS:[/bold]
+
+                                        [bold]- SIGN BELOW -[/bold]

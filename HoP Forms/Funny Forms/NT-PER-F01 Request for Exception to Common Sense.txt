@@ -12,7 +12,6 @@
 [bold]THIS FORM IS USED TO REQUEST TEMPORARY EXEMPTION FROM STANDARD OPERATIONAL JUDGMENT OR COMMON SENSE.[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION B – REQUESTED EXCEPTION[/bold][/head]
-
 [italic][color=#aaaaaa]Describe the action requiring exemption.[/color][/italic]
 
 [italic]Write here.[/italic]
@@ -23,8 +22,7 @@
 [italic]Write here.[/italic]
 ─────────────────────────────────────────
 [head=3][bold]SECTION D – RISK ACKNOWLEDGEMENT[/bold][/head]
-[italic][color=#aaaaaa]I acknowledge that this request exists because the proposed action
-would normally be considered ill‑advised.[/color][/italic]
+[italic][color=#aaaaaa]I acknowledge that this request exists because the proposed action would normally be considered ill-advised.[/color][/italic]
 
 ( ) ACKNOWLEDGED  
 ─────────────────────────────────────────

@@ -1,0 +1,60 @@
+# NT-MED-PM01 Field Care Report
+[color=#3fa7d6]                            ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                           [bold]NANOTRASEN MEDICAL DIVISION
+            PARAMEDICAL RESPONSE & EXTRACTION UNIT[/bold][/color]
+─────────────────────────────────────────
+[bold]THIS FORM DOCUMENTS PRE‑HOSPITAL CARE PROVIDED BY EMERGENCY MEDICAL STAFF.[/bold]
+─────────────────────────────────────────
+[head=3][bold]PATIENT DETAILS[/bold][/head]
+[bold]NAME:[/bold] 
+[bold]LOCATION FOUND:[/bold] 
+[bold]TIME OF CONTACT:[/bold] 
+─────────────────────────────────────────
+[head=3][bold]INITIAL CONDITION[/bold][/head]
+( ) Conscious
+( ) Unconscious
+( ) Critical
+( ) Cardiac Arrest
+( ) Respiratory Failure
+( ) Severe Trauma
+( ) Chemical Exposure
+( ) Other:
+─────────────────────────────────────────
+[head=3][bold]INTERVENTIONS PERFORMED[/bold][/head]
+( ) Basic First Aid
+( ) CPR / Defibrillation
+( ) Chemical Neutralization
+( ) Blood Replenishment
+( ) Medication Administered:
+( ) Other: 
+─────────────────────────────────────────
+[head=3][bold]TRANSPORT DETAILS[/bold][/head]
+[bold]TRANSPORT METHOD:[/bold]  
+( ) Stretcher
+( ) Fireman Carry
+( ) Roller Bed
+( ) Assisted Walk
+( ) No Transport Required
+
+[bold]DESTINATION:[/bold]  
+( ) ICU
+( ) Surgery
+( ) Cryogenics
+( ) Morgue
+( ) Released to Security
+( ) Other:
+─────────────────────────────────────────
+[head=3][bold]NOTES / OBSERVATIONS[/bold][/head]
+[italic][color=grey]Brief summary of scene, patient condition, and response.[/color][/italic]
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[bold]RESPONDING PARAMEDIC INITIALS:[/bold]
+
+                                        [bold]- SIGN BELOW -[/bold]

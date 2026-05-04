@@ -1,0 +1,55 @@
+# NT-ENG-C01 Area Compliance Checklist
+                           [color=#f0ad4e] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+          ENGINEERING DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS CHECKLIST IS USED TO VERIFY THAT A WORKSITE OR MODIFIED AREA MEETS ENGINEERING SAFETY AND STRUCTURAL STANDARDS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]AREA DETAILS[/bold][/head]
+[bold]LOCATION:[/bold]  
+[bold]WORK TYPE:[/bold] ( ) REPAIR   ( ) NEW CONSTRUCTION   ( ) MODIFICATION  
+[bold]ENGINEER(S) ASSIGNED:[/bold]  
+─────────────────────────────────────────
+[head=3][bold]STRUCTURAL CHECKS[/bold][/head]
+( ) Walls properly aligned and reinforced.
+( ) Floors plated, sealed, and pressure‑safe.
+( ) No exposed girders or unsecured plating.
+( ) Firelocks present and functional.
+( ) Area free of debris, tools, and hazards.
+─────────────────────────────────────────
+[head=3][bold]POWER & ELECTRICAL CHECKS[/bold][/head]
+( ) APC installed and charging.
+( ) Wiring intact, insulated, and color‑correct.
+( ) No power loops or shorts detected.
+( ) SMES/engine load unaffected by changes.
+─────────────────────────────────────────
+[head=3][bold]ATMOSPHERICS CHECKS[/bold][/head]
+( ) Sufficient airflow in area.
+( ) Pipes connected and pressure‑stable.
+( ) No harmful gases routed to distro.
+( ) Air alarms functional and default‑configured.
+( ) Vent/scrubber network intact.
+─────────────────────────────────────────
+[head=3][bold]ENGINE & HAZARD PROXIMITY CHECKS[/bold][/head]
+( ) No modifications within engine safety perimeter.
+( ) Radiation levels within acceptable range.
+( ) Emitters, shielding, and containment unaffected.
+( ) No unauthorized equipment near critical systems.
+─────────────────────────────────────────
+[head=3][bold]FINAL STATUS[/bold][/head]
+( ) AREA CERTIFIED SAFE  
+( ) AREA REQUIRES FURTHER WORK  
+
+[bold]NOTES:[/bold]  
+
+[italic]Write here if needed.[/italic]
+─────────────────────────────────────────
+[italic]Engineering personnel must ensure all modifications comply with SOP and Building Code 3‑E. Nanotrasen appreciates your continued efforts to prevent catastrophic structural failure.[/italic]
+
+                                        [bold]- SIGN BELOW -[/bold]

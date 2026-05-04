@@ -1,0 +1,57 @@
+# NT-MED-PM03 Mass Casualty Summary
+                           [color=#00a3d1] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+              MEDICAL DEPARTMENT - SPACE STATION 14[/color][/bold]
+─────────────────────────────────────────
+[bold]THIS FORM SUMMARIZES MASS-CASUALTY CONDITIONS AT A SCENE INVOLVING THREE OR MORE PATIENTS.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SCENE DETAILS[/bold][/head]
+[bold]LOCATION:[/bold]  
+[bold]TIME OF ARRIVAL:[/bold]  
+[bold]RESPONDING PARAMEDIC(S):[/bold]  
+─────────────────────────────────────────
+[head=3][bold]PATIENT COUNT[/bold][/head]
+[bold]TOTAL PATIENTS:[/bold]
+[bold]CRITICAL:[/bold]
+[bold]STABLE:[/bold] 
+[bold]DECEASED ON DISCOVERY:[/bold] 
+─────────────────────────────────────────
+[head=3][bold]PRIMARY DAMAGE TYPES OBSERVED[/bold][/head]
+( ) Brute Trauma  
+( ) Burn Injury  
+( ) Radiation Exposure  
+( ) Asphyxiation 
+( ) Mixed Trauma  
+( ) Unknown / Unclear  
+
+[italic]If multiple types apply, select all relevant categories.[/italic]
+─────────────────────────────────────────
+[head=3][bold]SCENE CONDITIONS[/bold][/head]
+( ) Area secured by Engineering
+( ) Area secured by Security
+( ) Area unsafe - extraction required
+( ) Bodies inaccessible due to hazard
+( ) Unknown threat at scene
+─────────────────────────────────────────
+[head=3][bold]SUMMARY OF EVENTS[/bold][/head]
+[italic][color=grey]Brief description of what occurred, patient distribution, and any complications.[/color][/italic]  
+
+[italic]Write here.[/italic]
+─────────────────────────────────────────
+[head=3][bold]FOLLOW‑UP ACTIONS[/bold][/head]
+( ) Additional medical staff requested.
+( ) Multiple transports initiated.
+( ) Morgue notified.
+( ) Security notified.
+( ) Engineering notified.
+( ) Scene revisited for secondary sweep.
+─────────────────────────────────────────
+[bold]RESPONDING PARAMEDIC INITIALS:[/bold]
+
+                                        [bold]- SIGN BELOW -[/bold]
