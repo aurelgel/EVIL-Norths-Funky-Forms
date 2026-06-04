@@ -1,4 +1,4 @@
-#NT-SD-R01 Restraining Order Request
+#NT-SEC-R01 Restraining Order Request
 [color=#9e1c1c]                            ╔══════════════════╗
                             ║███░███░░░░██░░░░░║
                             ║░██░████░░░██░░░░░║
@@ -14,7 +14,6 @@
 [head=3][bold]SECTION A: REQUESTER DETAILS[/bold][/head]
 
 [bold]REQUESTER NAME:[/bold]
-[bold]EMPLOYEE/NANOCHAT ID:[/bold]
 [bold]DEPARTMENT/ROLE:[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: SUBJECT OF ORDER[/bold][/head]

@@ -1,4 +1,4 @@
-#NT-SD-A02 Arrest Report
+#NT-SEC-A02 Arrest Report
 [color=#9e1c1c]                            ╔══════════════════╗
                             ║███░███░░░░██░░░░░║
                             ║░██░████░░░██░░░░░║
@@ -13,7 +13,6 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION A: ARRESTING OFFICER DETAILS[/bold][/head]
 [bold]OFFICER NAME:[/bold]
-[bold]EMPLOYEE/NANOCHAT ID:[/bold]
 [bold]TIME OF ARREST:[/bold]
 [bold]LOCATION OF ARREST:[/bold]
 ─────────────────────────────────────────

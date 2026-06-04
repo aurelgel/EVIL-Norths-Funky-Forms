@@ -15,7 +15,7 @@
 [bold]AUDITOR NAME:[/bold]
 [bold]DEPARTMENT AUDITED:[/bold]
 [bold]TIME OF AUDIT:[/bold]
-[bold]REASON FOR AUDIT:[/bold] [ ] Routine  [ ] Complaint-Based  [ ] Incident-Based  [ ] Other:
+[bold]REASON FOR AUDIT:[/bold] ( ) Routine  ( ) Complaint-Based  ( ) Incident-Based  ( ) Other:
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: PERSONNEL & OPERATIONS[/bold][/head]
 [bold]PERSONNEL STATUS:[/bold]  
@@ -36,10 +36,6 @@
 ( ) Minor Deviations  
 ( ) Major Deviations  
 
-[bold]SAFETY PRACTICES (PPE, equipment, environment):[/bold]
-
-[bold]NOTABLE STRENGTHS:[/bold]
-
 [bold]AREAS REQUIRING IMPROVEMENT:[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SECTION D: EQUIPMENT & RESOURCES[/bold][/head]
@@ -49,6 +45,9 @@
 ( ) Poor  
 
 [bold]RESOURCE MANAGEMENT (materials, budget, supplies):[/bold]
+( ) Excellent 
+( ) Meets Standard  
+( ) Ineffective
 ─────────────────────────────────────────
 [head=3][bold]SECTION E: OVERALL ASSESSMENT[/bold][/head]
 [bold]GENERAL RATING:[/bold]  
@@ -62,3 +61,5 @@
 [bold]RECOMMENDED FOLLOW-UP ACTIONS:[/bold]
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K.[/color][/italic]
+
+                                  [bold]- SIGN/STAMP BELOW -[/bold]

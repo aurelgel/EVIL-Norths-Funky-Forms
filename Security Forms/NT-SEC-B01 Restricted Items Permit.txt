@@ -13,7 +13,6 @@
 ─────────────────────────────────────────
 [head=3][bold]SECTION A: REQUESTER DETAILS[/bold][/head]
 [bold]SUBJECT NAME:[/bold]
-[bold]EMPLOYEE/NANOCHAT ID:[/bold]
 [bold]DEPARTMENT/ROLE:[/bold]
 [bold]ISSUING OFFICER:[/bold]
 ─────────────────────────────────────────

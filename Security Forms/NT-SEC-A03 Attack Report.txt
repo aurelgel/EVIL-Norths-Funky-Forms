@@ -1,4 +1,4 @@
-#NT-SD-A03 Attack Report
+#NT-SEC-A03 Attack Report
 [color=#9e1c1c]                            ╔══════════════════╗
                             ║███░███░░░░██░░░░░║
                             ║░██░████░░░██░░░░░║
@@ -17,11 +17,9 @@
 [head=3][bold]SECTION A: REPORTER DETAILS[/bold][/head]
 
 [bold]REPORTER NAME:[/bold]
-[bold]EMPLOYEE/NANOCHAT ID:[/bold]
 [bold]DEPARTMENT:[/bold]
 [bold]LOCATION OF INCIDENT:[/bold]
 [bold]TIME OF INCIDENT:[/bold]
-
 ─────────────────────────────────────────
 [head=3][bold]SECTION B: ATTACK DETAILS[/bold][/head]
 
@@ -29,11 +27,9 @@
 [bold]NUMBER OF ASSAILANTS:[/bold] 
 [bold]DESCRIPTION OF ATTACKER(s):[/bold]
 [bold]THREAT LEVEL: ( ) Low ( ) Moderate ( ) Severe ( ) Critical[/bold] 
-
 ─────────────────────────────────────────
 [head=3][bold]SECTION C: SEQUENCE OF EVENTS[/bold][/head]
 
 [italic]Describe the event in chronological order, from initial observation to conclusion.[/italic]
-
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]I,[color=#1b67a5] Name[/color], do affirm that the information above is true and correct to the best of my knowledge and relayed to the best of my ability. By signing below, I hereby acknowledge that I may be held in contempt by a court of space law, or guilty of perjury under Nanotrasen Regulation 7716(c).

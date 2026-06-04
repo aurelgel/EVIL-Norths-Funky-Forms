@@ -9,7 +9,7 @@
                           [bold]NANOTRASEN CORPORATION
                SECURITY & INTERNAL STABILITY DIVISION[/color][/bold]
 ─────────────────────────────────────────
-[bold]THIS DOCUMENT INITIATES A [color=red]FORMAL REQUEST FOR EXECUTION SANCTION[/color] UNDER INTERSTELLAR CORPORATE LAW, SECTION 41-B: “TERMINATION OF HOSTILE OR COMPROMISED PERSONNEL.”[/bold]
+[bold]THIS DOCUMENT INITIATES A [color=red]FORMAL REQUEST FOR EXECUTION SANCTION[/color] UNDER INTERSTELLAR LAW, SECTION 41-B: “TERMINATION OF HOSTILE OR COMPROMISED PERSONNEL.”[/bold]
 ─────────────────────────────────────────
 [head=3][bold]SUBJECT INFORMATION[/bold][/head]
 [bold]Name / Identification:[/bold]  
@@ -56,3 +56,5 @@ I acknowledge that once approved, this sanction is non-reversible, non-appealabl
 [italic]Upon approval, Security is authorized to enact termination by any method that ensures operational stability and prevents further contamination, harm, or informational leakage. Disposal of biological or mechanical remains shall follow Biohazard Containment Regulation 9-K.[/italic]
 
 [italic][color=#aaaaaa]Filed under Corporate Record Policy 7-K. Unauthorized review or duplication of this document constitutes grounds for termination.[/color][/italic]
+
+                                  [bold]- SIGN/STAMP BELOW -[/bold]

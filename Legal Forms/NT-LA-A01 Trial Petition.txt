@@ -17,7 +17,7 @@ Only the following crime categories are eligible for trial:
 • 3rd Degree Crimes  
 • 4th Degree Crimes  
 • 5th Degree Crimes  
-(Per Corporate Judicial Oversight Directive 88‑C)
+(Per Corporate Judicial Oversight Directive 88-C)
 
 This petition is submitted for review, approval, or dismissal
 at the discretion of the Magistrate. A trial may not commence
@@ -40,10 +40,10 @@ without Central Command judicial authorization.
 ( ) Inconclusive or conflicting evidence  
 ( ) Improper arrest or sentencing procedures
 ( ) Matter requires impartial adjudication  
-( ) Conflicts of interest on‑station  
+( ) Conflicts of interest on-station  
 ( ) Other (Specify below):  
 ─────────────────────────────────────────
-[head=3][bold]SECTION C: PRE‑TRIAL STATUS[/bold][/head]
+[head=3][bold]SECTION C: PRE-TRIAL STATUS[/bold][/head]
 [bold]CURRENT STATUS OF THE ACCUSED:[/bold]  
 ( ) Detained  
 ( ) Temporarily Released Under Supervision  
@@ -64,7 +64,7 @@ I hereby affirm that:
 • This request is made in good faith.  
 • The alleged crime qualifies for judicial review.  
 • Evidence has been preserved to the best of our office’s ability.
-• This petition complies with Judicial Oversight Directive 88‑C and Internal Affairs Protocol 4‑B.
+• This petition complies with Judicial Oversight Directive 88-C and Internal Affairs Protocol 4-B.
 ─────────────────────────────────────────
 [italic][color=#aaaaaa]
 I, [color=#1b67a5]the undersigned legal representative[/color], submit this petition to the Central Command Magistrate for consideration. By signing below, I acknowledge that fabrication or distortion of legal claims may result in disciplinary action under Corporate Regulation 7716(c) – Judicial Misconduct.[/color][/italic]
