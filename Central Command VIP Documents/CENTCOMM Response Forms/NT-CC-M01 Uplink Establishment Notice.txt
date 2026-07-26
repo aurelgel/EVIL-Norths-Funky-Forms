@@ -1,0 +1,30 @@
+# NT-CC-M01 Uplink Establishment Notice
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+                CENTRAL COMMAND LIAISON NETWORK[/bold][/color]
+─────────────────────────────────────────
+[bold]THIS NOTICE CONFIRMS THAT CENTRAL COMMAND HAS ESTABLISHED A SECURE UPLINK AND IS ACTIVELY MONITORING STATION OPERATIONS. ALL FAX TRANSMISSIONS FROM THE ON-STATION LIAISON WILL BE RECEIVED AND REVIEWED.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: COMMUNICATION STATUS[/bold][/head]
+[italic]Uplink connection verified.[/italic]
+[bullet] Routine operational reports are expected.  
+[bullet] Incident-level updates must be forwarded without delay.  
+[bullet] Petitions, inquiries, and departmental concerns will be evaluated upon receipt.
+─────────────────────────────────────────
+[head=3][bold]SECTION B: LIAISON EXPECTATIONS[/bold][/head]
+1. Maintain regular communications with CENTCOMM. 
+2. Forward all relevant documentation.
+3. Report operational anomalies.
+4. Escalate departmental disputes as-needed.  
+5. Relay directives to station command.
+─────────────────────────────────────────
+[head=3][bold]SECTION C: NOTICE OF AUTHORITY[/bold][/head]
+[italic]All communications sent under this notice are logged under Communications Protocol 5-C. Central Command responses supersede local procedure and departmental interpretation. Failure to report or deviation from directive may result in administrative review.[/italic]
+
+[italic][color=#aaaaaa]Transmission acknowledged and recorded.[/color][/italic]

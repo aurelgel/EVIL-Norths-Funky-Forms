@@ -1,0 +1,29 @@
+# NT-CC-M03 Uplink Dormancy Notice
+                           [color=#147e10] ╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝
+                          [bold]NANOTRASEN CORPORATION
+                CENTRAL COMMAND LIAISON NETWORK[/bold][/color]
+─────────────────────────────────────────
+[bold]THIS IS AN AUTOMATED NOTICE. CENTRAL COMMAND IS CURRENTLY UNREACHABLE. THIS TRANSMISSION WAS NOT REVIEWED BY LIAISON STAFF.[/bold]
+─────────────────────────────────────────
+[head=3][bold]SECTION A: COMMUNICATION STATUS[/bold][/head]
+[italic]Uplink connection: UNAVAILABLE.[/italic]
+[bullet] Outgoing transmissions will be queued and reviewed upon reconnection.  
+[bullet] No incident-level response should be expected until uplink is restored.  
+[bullet] Station command retains full local authority for the duration of this outage.
+─────────────────────────────────────────
+[head=3][bold]SECTION B: STANDING GUIDANCE[/bold][/head]
+1. Continue standard operational procedure.  
+2. Retain records of all incidents for later transmission.  
+3. Do not attempt unauthorized reconnection of the uplink.  
+4. Escalate only where station safety is at immediate risk.
+─────────────────────────────────────────
+[head=3][bold]SECTION C: NOTICE OF AUTHORITY[/bold][/head]
+[italic]This notice does not constitute a suspension of Communications Protocol 5-C. All prior directives remain in effect until superseded. Central Command assumes no responsibility for decisions made during this period.[/italic]
+
+                 [italic][color=#aaaaaa]Automated transmission. No response required.[/color][/italic]
