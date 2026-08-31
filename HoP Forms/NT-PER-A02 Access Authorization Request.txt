@@ -20,17 +20,51 @@
 [head=3][bold]SECTION B – REQUESTED ACCESS[/bold][/head]
 [italic][color=#aaaaaa]Check all that apply.[/color][/italic]
 
-( ) ENGINEERING
-( ) MEDICAL
-( ) RESEARCH
-( ) SECURITY
-( ) CARGO
-( ) SERVICE
-( ) BRIDGE / COMMAND
-( ) EVA / EXTERNAL ACCESS  
-( ) ARMORY (RESTRICTED)  
-( ) AI CORE / SATELLITES  
-( ) OTHER (SPECIFY): ______________________
+[bold]NON-SECURE AREAS:[/bold]
+        
+(  ) [color=#000000 ]MAINTENANCE[/color]
+(  ) [color=#000000 ]EXTERNAL[/color]
+(  ) [color=#539c00 ]SERVICE[/color]
+     (  ) [color=#539c00 ]BAR[/color]
+     (  ) [color=#539c00 ]KITCHEN[/color]
+     (  ) [color=#539c00 ]HYDROPONICS[/color]
+     (  ) [color=#539c00 ]JANITOR[/color]
+     (  ) [color=#539c00 ]CHAPEL[/color]
+     (  ) [color=#539c00 ]THEATRE[/color]
+     (  ) [color=#539c00 ]LAWYER[/color]
+     (  ) [color=#539c00 ]LIBRARY[/color]
+     (  ) [color=#539c00 ]REPORTER[/color]
+(  ) [color=#b48b57 ]CARGO[/color]
+     (  ) [color=#b48b57 ]SALVAGE[/color]
+     (  ) [color=#b48b57 ]LOGISTICS[/color]
+(  ) [color=#ff733c ]ENGINEERING[/color]
+     (  ) [color=#ff733c ]ATMOSPHERICS[/color]
+(  ) [color=#57b8f0 ]MEDICAL[/color]
+     (  ) [color=#57b8f0 ]CHEMISTRY[/color]
+     (  ) [color=#57b8f0 ]CRYOGENICS[/color]
+(  ) [color=#cd7ccd]RESEARCH[/color]
+     (  ) [color=#cd7ccd]ROBOTICS[/color]
+[color=#bfbfbf]Authorization is required by the head of the department or the captain.[/color]
+
+[bolditalic]SECURE AREAS:[/bolditalic]
+        
+(  ) [color=#ff4242]SECURITY[/color]
+     (  ) [color=#ff4242 ]BRIG[/color]
+     (  ) [color=#ff4242 ]ARMORY[/color]
+     (  ) [color=#ff4242 ]WARDEN[/color]
+     (  ) [color=#ff4242 ]DETECTIVE[/color]
+     (  ) [color=#ff4242 ]ENTER GENPOP[/color]
+     (  ) [color=#ff4242 ]LEAVE GENPOP[/color]
+(  ) [color=#fcdf03]COMMAND[/color]
+     (  ) [color=#fcdf03 ]CAPTAIN[/color]
+     (  ) [color=#fcdf03 ]HEAD OF PERSONNEL[/color]
+     (  ) [color=#fcdf03 ]HEAD OF SECURITY[/color]
+     (  ) [color=#fcdf03 ]CHIEF ENGINEER[/color]
+     (  ) [color=#fcdf03 ]CHIEF MEDICAL OFFICER[/color]
+     (  ) [color=#fcdf03 ]RESEARCH DIRECTOR[/color]
+     (  ) [color=#fcdf03 ]QUARTERMASTER[/color]
+[color=#bfbfbf]Authorization is required by the head of the department or the captain.
+A Mindshield implant must be administered to personnel requesting access to secure areas.[/color]
 ─────────────────────────────────────────
 [head=3][bold]SECTION C – ACCESS LEVEL[/bold][/head]
 [italic][color=#aaaaaa]Choose one.[/color][/italic]
